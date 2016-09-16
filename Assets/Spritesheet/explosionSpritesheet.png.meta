@@ -1,0 +1,4126 @@
+fileFormatVersion: 2
+guid: e8a0a66b8a7642a4aaac9ac0f89ad36e
+timeCreated: 1473843283
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: explosionSpritesheet_0
+    21300002: explosionSpritesheet_1
+    21300004: explosionSpritesheet_2
+    21300006: explosionSpritesheet_3
+    21300008: explosionSpritesheet_4
+    21300010: explosionSpritesheet_5
+    21300012: explosionSpritesheet_6
+    21300014: explosionSpritesheet_7
+    21300016: explosionSpritesheet_8
+    21300018: explosionSpritesheet_9
+    21300020: explosionSpritesheet_10
+    21300022: explosionSpritesheet_11
+    21300024: explosionSpritesheet_12
+    21300026: explosionSpritesheet_13
+    21300028: explosionSpritesheet_14
+    21300030: explosionSpritesheet_15
+    21300032: explosionSpritesheet_16
+    21300034: explosionSpritesheet_17
+    21300036: explosionSpritesheet_18
+    21300038: explosionSpritesheet_19
+    21300040: explosionSpritesheet_20
+    21300042: explosionSpritesheet_21
+    21300044: explosionSpritesheet_22
+    21300046: explosionSpritesheet_23
+    21300048: explosionSpritesheet_24
+    21300050: explosionSpritesheet_25
+    21300052: explosionSpritesheet_26
+    21300054: explosionSpritesheet_27
+    21300056: explosionSpritesheet_28
+    21300058: explosionSpritesheet_29
+    21300060: explosionSpritesheet_30
+    21300062: explosionSpritesheet_31
+    21300064: explosionSpritesheet_32
+    21300066: explosionSpritesheet_33
+    21300068: explosionSpritesheet_34
+    21300070: explosionSpritesheet_35
+    21300072: explosionSpritesheet_36
+    21300074: explosionSpritesheet_37
+    21300076: explosionSpritesheet_38
+    21300078: explosionSpritesheet_39
+    21300080: explosionSpritesheet_40
+    21300082: explosionSpritesheet_41
+    21300084: explosionSpritesheet_42
+    21300086: explosionSpritesheet_43
+    21300088: explosionSpritesheet_44
+    21300090: explosionSpritesheet_45
+    21300092: explosionSpritesheet_46
+    21300094: explosionSpritesheet_47
+    21300096: explosionSpritesheet_48
+    21300098: explosionSpritesheet_49
+    21300100: explosionSpritesheet_50
+    21300102: explosionSpritesheet_51
+    21300104: explosionSpritesheet_52
+    21300106: explosionSpritesheet_53
+    21300108: explosionSpritesheet_54
+    21300110: explosionSpritesheet_55
+    21300112: explosionSpritesheet_56
+    21300114: explosionSpritesheet_57
+    21300116: explosionSpritesheet_58
+    21300118: explosionSpritesheet_59
+    21300120: explosionSpritesheet_60
+    21300122: explosionSpritesheet_61
+    21300124: explosionSpritesheet_62
+    21300126: explosionSpritesheet_63
+    21300128: explosionSpritesheet_64
+    21300130: explosionSpritesheet_65
+    21300132: explosionSpritesheet_66
+    21300134: explosionSpritesheet_67
+    21300136: explosionSpritesheet_68
+    21300138: explosionSpritesheet_69
+    21300140: explosionSpritesheet_70
+    21300142: explosionSpritesheet_71
+    21300144: explosionSpritesheet_72
+    21300146: explosionSpritesheet_73
+    21300148: explosionSpritesheet_74
+    21300150: explosionSpritesheet_75
+    21300152: explosionSpritesheet_76
+    21300154: explosionSpritesheet_77
+    21300156: explosionSpritesheet_78
+    21300158: explosionSpritesheet_79
+    21300160: explosionSpritesheet_80
+    21300162: explosionSpritesheet_81
+    21300164: explosionSpritesheet_82
+    21300166: explosionSpritesheet_83
+    21300168: explosionSpritesheet_84
+    21300170: explosionSpritesheet_85
+    21300172: explosionSpritesheet_86
+    21300174: explosionSpritesheet_87
+    21300176: explosionSpritesheet_88
+    21300178: explosionSpritesheet_89
+    21300180: explosionSpritesheet_90
+    21300182: explosionSpritesheet_91
+    21300184: explosionSpritesheet_92
+    21300186: explosionSpritesheet_93
+    21300188: explosionSpritesheet_94
+    21300190: explosionSpritesheet_95
+    21300192: explosionSpritesheet_96
+    21300194: explosionSpritesheet_97
+    21300196: explosionSpritesheet_98
+    21300198: explosionSpritesheet_99
+    21300200: explosionSpritesheet_100
+    21300202: explosionSpritesheet_101
+    21300204: explosionSpritesheet_102
+    21300206: explosionSpritesheet_103
+    21300208: explosionSpritesheet_104
+    21300210: explosionSpritesheet_105
+    21300212: explosionSpritesheet_106
+    21300214: explosionSpritesheet_107
+    21300216: explosionSpritesheet_108
+    21300218: explosionSpritesheet_109
+    21300220: explosionSpritesheet_110
+    21300222: explosionSpritesheet_111
+    21300224: explosionSpritesheet_112
+    21300226: explosionSpritesheet_113
+    21300228: explosionSpritesheet_114
+    21300230: explosionSpritesheet_115
+    21300232: explosionSpritesheet_116
+    21300234: explosionSpritesheet_117
+    21300236: explosionSpritesheet_118
+    21300238: explosionSpritesheet_119
+    21300240: explosionSpritesheet_120
+    21300242: explosionSpritesheet_121
+    21300244: explosionSpritesheet_122
+    21300246: explosionSpritesheet_123
+    21300248: explosionSpritesheet_124
+    21300250: explosionSpritesheet_125
+    21300252: explosionSpritesheet_126
+    21300254: explosionSpritesheet_127
+    21300256: explosionSpritesheet_128
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: explosionSpritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 808
+        width: 78
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34, y: 18.5}
+        - {x: 31, y: 18.5}
+        - {x: 38, y: 19.5}
+        - {x: 26, y: 37.5}
+        - {x: -33, y: 37.5}
+        - {x: -39, y: 24.5}
+        - {x: -39, y: -22.5}
+        - {x: -35, y: -27.5}
+        - {x: -20, y: -37.5}
+        - {x: 33, y: -37.5}
+        - {x: 39, y: -28.5}
+        - {x: 39, y: 11.5}
+        - {x: 37, y: 15.5}
+    - name: explosionSpritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 805
+        width: 84
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 38, y: 34.5}
+        - {x: 14, y: 40.5}
+        - {x: -32, y: 40.5}
+        - {x: -42, y: 31.5}
+        - {x: -42, y: -34.5}
+        - {x: -30, y: -40.5}
+        - {x: 28, y: -40.5}
+        - {x: 42, y: -19.5}
+        - {x: 42, y: 17.5}
+    - name: explosionSpritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 802
+        width: 89
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.5, y: 43.5}
+        - {x: -44.5, y: 40.5}
+        - {x: -44.5, y: -13.5}
+        - {x: -41.5, y: -21.5}
+        - {x: -38.5, y: -30.5}
+        - {x: -28.5, y: -43.5}
+        - {x: 32.5, y: -43.5}
+        - {x: 44.5, y: -35.5}
+        - {x: 44.5, y: 37.5}
+        - {x: 37.5, y: 43.5}
+    - name: explosionSpritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 799
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.5, y: 45.5}
+        - {x: -39.5, y: 45.5}
+        - {x: -44.5, y: 36.5}
+        - {x: -44.5, y: -34.5}
+        - {x: -39.5, y: -45.5}
+        - {x: 39.5, y: -45.5}
+        - {x: 44.5, y: -29.5}
+        - {x: 44.5, y: 27.5}
+        - {x: 40.5, y: 40.5}
+    - name: explosionSpritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 879
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: explosionSpritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 815
+        width: 63
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 30}
+        - {x: -31.5, y: 19}
+        - {x: -31.5, y: -26}
+        - {x: -21.5, y: -30}
+        - {x: 21.5, y: -30}
+        - {x: 31.5, y: -18}
+        - {x: 31.5, y: 16}
+        - {x: 19.5, y: 30}
+    - name: explosionSpritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 812
+        width: 72
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31, y: 16.5}
+        - {x: 28, y: 16.5}
+        - {x: 31, y: 19.5}
+        - {x: 33, y: 23.5}
+        - {x: 22, y: 33.5}
+        - {x: -25, y: 33.5}
+        - {x: -36, y: 26.5}
+        - {x: -36, y: -26.5}
+        - {x: -23, y: -33.5}
+        - {x: 29, y: -33.5}
+        - {x: 36, y: -22.5}
+        - {x: 36, y: 8.5}
+        - {x: 35, y: 14.5}
+    - name: explosionSpritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 842
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: explosionSpritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 751
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: explosionSpritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 752
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: explosionSpritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 753
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: explosionSpritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 754
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: explosionSpritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 755
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: explosionSpritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 756
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: explosionSpritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 758
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: explosionSpritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 758
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: explosionSpritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 760
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: explosionSpritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 760
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: explosionSpritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 761
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: explosionSpritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 761
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: explosionSpritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 755
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: explosionSpritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 712
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: explosionSpritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 667
+        width: 93
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26.5, y: 44.5}
+        - {x: 22.5, y: 43.5}
+        - {x: 14.5, y: 44.5}
+        - {x: 2.5, y: 44.5}
+        - {x: 0.5, y: 40.5}
+        - {x: -0.5, y: 44.5}
+        - {x: -39.5, y: 44.5}
+        - {x: -46.5, y: 31.5}
+        - {x: -46.5, y: 25.5}
+        - {x: -37.5, y: 21.5}
+        - {x: -35.5, y: 21.5}
+        - {x: -42.5, y: 22.5}
+        - {x: -46.5, y: 19.5}
+        - {x: -46.5, y: -36.5}
+        - {x: -32.5, y: -44.5}
+        - {x: 43.5, y: -44.5}
+        - {x: 46.5, y: -43.5}
+        - {x: 46.5, y: 21.5}
+        - {x: 39.5, y: 41.5}
+    - name: explosionSpritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 712
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: explosionSpritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 665
+        width: 95
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.5, y: 46.5}
+        - {x: -47.5, y: 34.5}
+        - {x: -47.5, y: 26.5}
+        - {x: -37.5, y: 21.5}
+        - {x: -35.5, y: 21.5}
+        - {x: -43.5, y: 22.5}
+        - {x: -47.5, y: 20.5}
+        - {x: -47.5, y: 8.5}
+        - {x: -41.5, y: 6.5}
+        - {x: -37.5, y: 5.5}
+        - {x: -41.5, y: 6.5}
+        - {x: -47.5, y: 7.5}
+        - {x: -47.5, y: -31.5}
+        - {x: -39.5, y: -46.5}
+        - {x: 32.5, y: -46.5}
+        - {x: 47.5, y: -42.5}
+        - {x: 47.5, y: 46.5}
+      - - {x: 17.5, y: -31.5}
+        - {x: 16.5, y: -33.5}
+        - {x: 16.5, y: -38.5}
+        - {x: 17.5, y: -44.5}
+        - {x: 21.5, y: -46.5}
+        - {x: 23.5, y: -46.5}
+        - {x: 27.5, y: -44.5}
+        - {x: 27.5, y: -36.5}
+        - {x: 21.5, y: -31.5}
+    - name: explosionSpritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 712
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: explosionSpritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 669
+        width: 98
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 45}
+        - {x: -18, y: 42}
+        - {x: -18, y: 38}
+        - {x: -18, y: 45}
+        - {x: -42, y: 45}
+        - {x: -49, y: 31}
+        - {x: -49, y: -45}
+        - {x: 31, y: -45}
+        - {x: 49, y: -36}
+        - {x: 49, y: 42}
+        - {x: 41, y: 45}
+      - - {x: 18, y: -40}
+        - {x: 18, y: -45}
+        - {x: 27, y: -45}
+        - {x: 27, y: -42}
+        - {x: 23, y: -38}
+        - {x: 20, y: -38}
+      - - {x: -49, y: 5}
+        - {x: -49, y: -4}
+        - {x: -43, y: -4}
+        - {x: -41, y: 0}
+        - {x: -41, y: 3}
+        - {x: -44, y: 4}
+    - name: explosionSpritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 712
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: explosionSpritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 668
+        width: 98
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 46}
+        - {x: -2, y: 43}
+        - {x: -4, y: 46}
+        - {x: -43, y: 46}
+        - {x: -49, y: 39}
+        - {x: -49, y: 30}
+        - {x: -41, y: 22}
+        - {x: -39, y: 19}
+        - {x: -38, y: 20}
+        - {x: -46, y: 22}
+        - {x: -49, y: 17}
+        - {x: -49, y: -41}
+        - {x: -47, y: -46}
+        - {x: 46, y: -46}
+        - {x: 49, y: -45}
+        - {x: 49, y: 34}
+        - {x: 32, y: 46}
+      - - {x: 19, y: -41}
+        - {x: 19, y: -46}
+        - {x: 28, y: -46}
+        - {x: 28, y: -44}
+        - {x: 26, y: -40}
+        - {x: 21, y: -39}
+      - - {x: -49, y: 4}
+        - {x: -49, y: -3}
+        - {x: -46, y: -3}
+        - {x: -43, y: 0}
+        - {x: -43, y: 1}
+        - {x: -46, y: 4}
+    - name: explosionSpritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 712
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: explosionSpritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 668
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38, y: 46.5}
+        - {x: -50, y: 42.5}
+        - {x: -50, y: -46.5}
+        - {x: 42, y: -46.5}
+        - {x: 50, y: -39.5}
+        - {x: 50, y: 37.5}
+        - {x: 39, y: 46.5}
+      - - {x: 20, y: -42.5}
+        - {x: 20, y: -46.5}
+        - {x: 28, y: -46.5}
+        - {x: 28, y: -44.5}
+        - {x: 24, y: -40.5}
+        - {x: 22, y: -40.5}
+      - - {x: -50, y: 3.5}
+        - {x: -50, y: -3.5}
+        - {x: -48, y: -3.5}
+        - {x: -45, y: -0.5}
+        - {x: -45, y: 0.5}
+        - {x: -48, y: 3.5}
+      - - {x: 2, y: 46.5}
+        - {x: 2, y: 35.5}
+        - {x: 9, y: 35.5}
+        - {x: 10, y: 36.5}
+        - {x: 10, y: 46.5}
+    - name: explosionSpritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 712
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: explosionSpritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 667
+        width: 102
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46, y: 47}
+        - {x: -51, y: 41}
+        - {x: -51, y: 30}
+        - {x: -50, y: 29}
+        - {x: -43, y: 23}
+        - {x: -38, y: 22}
+        - {x: -32, y: 19}
+        - {x: -48, y: 23}
+        - {x: -51, y: 21}
+        - {x: -51, y: -43}
+        - {x: -44, y: -47}
+        - {x: 47, y: -47}
+        - {x: 51, y: -43}
+        - {x: 51, y: 47}
+      - - {x: 20, y: -47}
+        - {x: 29, y: -47}
+        - {x: 27, y: -42}
+        - {x: 23, y: -42}
+        - {x: 20, y: -45}
+      - - {x: -48, y: -23}
+        - {x: -51, y: -26}
+        - {x: -51, y: -31}
+        - {x: -48, y: -32}
+        - {x: -44, y: -32}
+        - {x: -41, y: -28}
+        - {x: -41, y: -25}
+        - {x: -43, y: -23}
+      - - {x: -51, y: 4}
+        - {x: -51, y: -3}
+        - {x: -49, y: -3}
+        - {x: -47, y: -1}
+        - {x: -47, y: 2}
+        - {x: -49, y: 4}
+      - - {x: 11, y: 47}
+        - {x: 2, y: 47}
+        - {x: 2, y: 42}
+        - {x: 3, y: 39}
+        - {x: 9, y: 39}
+        - {x: 11, y: 42}
+    - name: explosionSpritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 664
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: explosionSpritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 666
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: explosionSpritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 662
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: explosionSpritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 665
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: explosionSpritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 661
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: explosionSpritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 664
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: explosionSpritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 660
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: explosionSpritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 663
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: explosionSpritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 632
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: explosionSpritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 633
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: explosionSpritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 633
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: explosionSpritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 634
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: explosionSpritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 624
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: explosionSpritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 635
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: explosionSpritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 529
+        width: 106
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: -52}
+        - {x: 5, y: -56}
+        - {x: 12, y: -56}
+        - {x: 12, y: -52}
+        - {x: 10, y: -50}
+        - {x: 7, y: -50}
+      - - {x: 30, y: -47}
+        - {x: 27, y: -50}
+        - {x: 27, y: -52}
+        - {x: 30, y: -55}
+        - {x: 33, y: -55}
+        - {x: 35, y: -53}
+        - {x: 35, y: -50}
+        - {x: 32, y: -47}
+      - - {x: -29, y: 48}
+        - {x: -33, y: 35}
+        - {x: -33, y: 27}
+        - {x: -30, y: 24}
+        - {x: -45, y: 21}
+        - {x: -50, y: 19}
+        - {x: -50, y: -31}
+        - {x: -42, y: -51}
+        - {x: 37, y: -51}
+        - {x: 53, y: -32}
+        - {x: 53, y: 45}
+        - {x: 40, y: 48}
+      - - {x: -36, y: -25}
+        - {x: -37, y: -27}
+        - {x: -37, y: -33}
+        - {x: -34, y: -36}
+        - {x: -27, y: -36}
+        - {x: -24, y: -35}
+        - {x: -24, y: -28}
+        - {x: -29, y: -25}
+      - - {x: -48, y: -33}
+        - {x: -40, y: -33}
+        - {x: -40, y: -26}
+        - {x: -48, y: -26}
+      - - {x: 50, y: -25}
+        - {x: 48, y: -27}
+        - {x: 48, y: -31}
+        - {x: 50, y: -33}
+        - {x: 53, y: -33}
+        - {x: 53, y: -26}
+        - {x: 52, y: -25}
+      - - {x: -53, y: 3}
+        - {x: -53, y: -4}
+        - {x: -49, y: -4}
+        - {x: -47, y: -2}
+        - {x: -47, y: 1}
+        - {x: -49, y: 3}
+      - - {x: 40, y: 20}
+        - {x: 38, y: 18}
+        - {x: 38, y: 15}
+        - {x: 40, y: 13}
+        - {x: 44, y: 13}
+        - {x: 46, y: 15}
+        - {x: 46, y: 18}
+        - {x: 44, y: 20}
+      - - {x: 48, y: 24}
+        - {x: 46, y: 22}
+        - {x: 46, y: 18}
+        - {x: 48, y: 16}
+        - {x: 51, y: 16}
+        - {x: 53, y: 18}
+        - {x: 53, y: 23}
+        - {x: 52, y: 24}
+      - - {x: -39, y: 35}
+        - {x: -46, y: 35}
+        - {x: -47, y: 33}
+        - {x: -47, y: 28}
+        - {x: -41, y: 25}
+        - {x: -37, y: 25}
+        - {x: -35, y: 27}
+        - {x: -35, y: 32}
+      - - {x: -31, y: 50}
+        - {x: -31, y: 41}
+        - {x: -30, y: 38}
+        - {x: -22, y: 38}
+        - {x: -22, y: 47}
+        - {x: -26, y: 50}
+      - - {x: 10, y: 50}
+        - {x: 8, y: 48}
+        - {x: 8, y: 44}
+        - {x: 10, y: 42}
+        - {x: 13, y: 42}
+        - {x: 16, y: 45}
+        - {x: 16, y: 48}
+        - {x: 14, y: 50}
+      - - {x: -22, y: 56}
+        - {x: -24, y: 54}
+        - {x: -24, y: 51}
+        - {x: -21, y: 48}
+        - {x: -20, y: 48}
+        - {x: -17, y: 51}
+        - {x: -17, y: 54}
+        - {x: -19, y: 56}
+      - - {x: -7, y: 56}
+        - {x: -7, y: 52}
+        - {x: -5, y: 50}
+        - {x: -2, y: 50}
+        - {x: 0, y: 52}
+        - {x: 0, y: 56}
+    - name: explosionSpritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 529
+        width: 111
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.5, y: -53}
+        - {x: 2.5, y: -56}
+        - {x: 9.5, y: -56}
+        - {x: 9.5, y: -53}
+        - {x: 7.5, y: -51}
+        - {x: 4.5, y: -51}
+      - - {x: 27.5, y: -48}
+        - {x: 25.5, y: -50}
+        - {x: 25.5, y: -55}
+        - {x: 27.5, y: -56}
+        - {x: 31.5, y: -56}
+        - {x: 32.5, y: -54}
+        - {x: 32.5, y: -50}
+        - {x: 30.5, y: -48}
+      - - {x: -30.5, y: 48}
+        - {x: -52.5, y: 40}
+        - {x: -52.5, y: -38}
+        - {x: -30.5, y: -51}
+        - {x: 49.5, y: -51}
+        - {x: 55.5, y: -46}
+        - {x: 55.5, y: 48}
+      - - {x: -37.5, y: -25}
+        - {x: -39.5, y: -26}
+        - {x: -39.5, y: -32}
+        - {x: -35.5, y: -36}
+        - {x: -29.5, y: -36}
+        - {x: -27.5, y: -35}
+        - {x: -27.5, y: -29}
+        - {x: -31.5, y: -25}
+      - - {x: -50.5, y: -34}
+        - {x: -44.5, y: -34}
+        - {x: -42.5, y: -33}
+        - {x: -42.5, y: -26}
+        - {x: -48.5, y: -26}
+        - {x: -50.5, y: -27}
+      - - {x: 47.5, y: -26}
+        - {x: 45.5, y: -28}
+        - {x: 45.5, y: -31}
+        - {x: 47.5, y: -33}
+        - {x: 51.5, y: -33}
+        - {x: 53.5, y: -31}
+        - {x: 53.5, y: -28}
+        - {x: 51.5, y: -26}
+      - - {x: -55.5, y: 3}
+        - {x: -55.5, y: -4}
+        - {x: -51.5, y: -4}
+        - {x: -49.5, y: -2}
+        - {x: -49.5, y: 1}
+        - {x: -51.5, y: 3}
+      - - {x: 37.5, y: 20}
+        - {x: 35.5, y: 18}
+        - {x: 35.5, y: 15}
+        - {x: 37.5, y: 13}
+        - {x: 41.5, y: 13}
+        - {x: 43.5, y: 15}
+        - {x: 43.5, y: 18}
+        - {x: 41.5, y: 20}
+      - - {x: 45.5, y: 24}
+        - {x: 43.5, y: 22}
+        - {x: 43.5, y: 19}
+        - {x: 45.5, y: 17}
+        - {x: 49.5, y: 17}
+        - {x: 51.5, y: 19}
+        - {x: 51.5, y: 22}
+        - {x: 49.5, y: 24}
+      - - {x: -47.5, y: 36}
+        - {x: -49.5, y: 35}
+        - {x: -49.5, y: 29}
+        - {x: -43.5, y: 25}
+        - {x: -41.5, y: 25}
+        - {x: -37.5, y: 27}
+        - {x: -37.5, y: 32}
+        - {x: -41.5, y: 36}
+      - - {x: -29.5, y: 50}
+        - {x: -33.5, y: 50}
+        - {x: -34.5, y: 49}
+        - {x: -34.5, y: 44}
+        - {x: -33.5, y: 39}
+        - {x: -27.5, y: 39}
+        - {x: -25.5, y: 42}
+        - {x: -25.5, y: 48}
+      - - {x: 8.5, y: 51}
+        - {x: 6.5, y: 50}
+        - {x: 5.5, y: 46}
+        - {x: 8.5, y: 43}
+        - {x: 11.5, y: 43}
+        - {x: 13.5, y: 45}
+        - {x: 13.5, y: 49}
+        - {x: 11.5, y: 51}
+      - - {x: -24.5, y: 56}
+        - {x: -26.5, y: 54}
+        - {x: -26.5, y: 51}
+        - {x: -24.5, y: 49}
+        - {x: -21.5, y: 49}
+        - {x: -19.5, y: 51}
+        - {x: -19.5, y: 54}
+        - {x: -21.5, y: 56}
+      - - {x: -9.5, y: 56}
+        - {x: -9.5, y: 53}
+        - {x: -6.5, y: 50}
+        - {x: -5.5, y: 50}
+        - {x: -2.5, y: 53}
+        - {x: -2.5, y: 56}
+    - name: explosionSpritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 528
+        width: 108
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: -52.5}
+        - {x: 5, y: -56.5}
+        - {x: 12, y: -56.5}
+        - {x: 12, y: -52.5}
+        - {x: 10, y: -50.5}
+        - {x: 7, y: -50.5}
+      - - {x: 30, y: -48.5}
+        - {x: 28, y: -50.5}
+        - {x: 28, y: -55.5}
+        - {x: 35, y: -55.5}
+        - {x: 35, y: -49.5}
+        - {x: 33, y: -48.5}
+      - - {x: -42, y: 48.5}
+        - {x: -47, y: 46.5}
+        - {x: -50, y: 33.5}
+        - {x: -50, y: -39.5}
+        - {x: -44, y: -50.5}
+        - {x: 54, y: -50.5}
+        - {x: 54, y: 36.5}
+        - {x: 47, y: 48.5}
+      - - {x: 34, y: -32.5}
+        - {x: 32, y: -34.5}
+        - {x: 32, y: -37.5}
+        - {x: 34, y: -39.5}
+        - {x: 37, y: -39.5}
+        - {x: 39, y: -37.5}
+        - {x: 39, y: -34.5}
+        - {x: 37, y: -32.5}
+      - - {x: -36, y: -24.5}
+        - {x: -37, y: -25.5}
+        - {x: -37, y: -31.5}
+        - {x: -32, y: -35.5}
+        - {x: -26, y: -35.5}
+        - {x: -25, y: -34.5}
+        - {x: -25, y: -27.5}
+        - {x: -29, y: -24.5}
+      - - {x: -48, y: -26.5}
+        - {x: -48, y: -33.5}
+        - {x: -41, y: -33.5}
+        - {x: -41, y: -28.5}
+        - {x: -42, y: -26.5}
+      - - {x: 48, y: -28.5}
+        - {x: 48, y: -29.5}
+        - {x: 51, y: -32.5}
+        - {x: 54, y: -32.5}
+        - {x: 54, y: -25.5}
+        - {x: 51, y: -25.5}
+      - - {x: -54, y: 3.5}
+        - {x: -54, y: -3.5}
+        - {x: -50, y: -3.5}
+        - {x: -48, y: -1.5}
+        - {x: -48, y: 1.5}
+        - {x: -50, y: 3.5}
+      - - {x: 41, y: 20.5}
+        - {x: 38, y: 17.5}
+        - {x: 38, y: 16.5}
+        - {x: 41, y: 13.5}
+        - {x: 44, y: 13.5}
+        - {x: 46, y: 15.5}
+        - {x: 46, y: 18.5}
+        - {x: 44, y: 20.5}
+      - - {x: 49, y: 24.5}
+        - {x: 46, y: 21.5}
+        - {x: 46, y: 20.5}
+        - {x: 49, y: 17.5}
+        - {x: 52, y: 17.5}
+        - {x: 54, y: 19.5}
+        - {x: 54, y: 22.5}
+        - {x: 52, y: 24.5}
+      - - {x: -47, y: 36.5}
+        - {x: -48, y: 34.5}
+        - {x: -48, y: 29.5}
+        - {x: -44, y: 26.5}
+        - {x: -37, y: 26.5}
+        - {x: -36, y: 28.5}
+        - {x: -36, y: 33.5}
+        - {x: -40, y: 36.5}
+      - - {x: -31, y: 41.5}
+        - {x: -23, y: 41.5}
+        - {x: -23, y: 48.5}
+        - {x: -24, y: 50.5}
+        - {x: -32, y: 50.5}
+        - {x: -32, y: 44.5}
+      - - {x: 11, y: 51.5}
+        - {x: 9, y: 49.5}
+        - {x: 9, y: 46.5}
+        - {x: 11, y: 44.5}
+        - {x: 14, y: 44.5}
+        - {x: 16, y: 46.5}
+        - {x: 16, y: 49.5}
+        - {x: 14, y: 51.5}
+      - - {x: -24, y: 56.5}
+        - {x: -25, y: 55.5}
+        - {x: -25, y: 52.5}
+        - {x: -22, y: 49.5}
+        - {x: -20, y: 49.5}
+        - {x: -17, y: 52.5}
+        - {x: -19, y: 56.5}
+      - - {x: -7, y: 56.5}
+        - {x: -7, y: 53.5}
+        - {x: -5, y: 51.5}
+        - {x: -2, y: 51.5}
+        - {x: 0, y: 53.5}
+        - {x: 0, y: 56.5}
+    - name: explosionSpritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 636
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: explosionSpritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 622
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: explosionSpritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 626
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: explosionSpritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 623
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: explosionSpritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 627
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: explosionSpritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 529
+        width: 100
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: -47}
+        - {x: 2, y: -52}
+        - {x: 9, y: -52}
+        - {x: 9, y: -47}
+        - {x: 7, y: -45}
+        - {x: 4, y: -45}
+      - - {x: 26, y: -43}
+        - {x: 24, y: -45}
+        - {x: 24, y: -48}
+        - {x: 27, y: -51}
+        - {x: 30, y: -51}
+        - {x: 32, y: -49}
+        - {x: 32, y: -46}
+        - {x: 29, y: -43}
+      - - {x: 28, y: -33}
+        - {x: 29, y: -35}
+        - {x: 50, y: -39}
+        - {x: 50, y: 52}
+        - {x: -50, y: 52}
+        - {x: -50, y: -31}
+        - {x: -35, y: -47}
+        - {x: 25, y: -47}
+        - {x: 27, y: -27}
+        - {x: 27, y: -22}
+        - {x: 27, y: -28}
+      - - {x: -50, y: -24}
+        - {x: -50, y: -27}
+        - {x: -47, y: -30}
+        - {x: -42, y: -28}
+        - {x: -42, y: -24}
+        - {x: -43, y: -22}
+        - {x: -47, y: -21}
+      - - {x: 44, y: -23}
+        - {x: 44, y: -26}
+        - {x: 47, y: -29}
+        - {x: 50, y: -29}
+        - {x: 50, y: -21}
+        - {x: 46, y: -21}
+      - - {x: 45, y: 28}
+        - {x: 42, y: 25}
+        - {x: 42, y: 22}
+        - {x: 44, y: 20}
+        - {x: 48, y: 20}
+        - {x: 50, y: 22}
+        - {x: 50, y: 26}
+        - {x: 48, y: 28}
+      - - {x: -48, y: 40}
+        - {x: -50, y: 39}
+        - {x: -50, y: 34}
+        - {x: -49, y: 29}
+        - {x: -37, y: 29}
+        - {x: -37, y: 37}
+        - {x: -45, y: 40}
+      - - {x: 5, y: 52}
+        - {x: 5, y: 47}
+        - {x: 7, y: 45}
+        - {x: 10, y: 45}
+        - {x: 12, y: 47}
+        - {x: 12, y: 52}
+    - name: explosionSpritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 625
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: explosionSpritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 629
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: explosionSpritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 626
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: explosionSpritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 630
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: explosionSpritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 628
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: explosionSpritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 536
+        width: 98
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -49, y: 47}
+        - {x: -49, y: -39}
+        - {x: -34, y: -47}
+        - {x: 43, y: -47}
+        - {x: 49, y: -43}
+        - {x: 49, y: 47}
+      - - {x: 23, y: -44}
+        - {x: 23, y: -47}
+        - {x: 31, y: -47}
+        - {x: 31, y: -45}
+        - {x: 28, y: -42}
+        - {x: 25, y: -42}
+      - - {x: -47, y: -32}
+        - {x: -45, y: -32}
+        - {x: -40, y: -30}
+        - {x: -40, y: -22}
+        - {x: -45, y: -22}
+        - {x: -49, y: -24}
+        - {x: -49, y: -29}
+      - - {x: 44, y: -22}
+        - {x: 42, y: -25}
+        - {x: 42, y: -30}
+        - {x: 45, y: -31}
+        - {x: 49, y: -31}
+        - {x: 49, y: -23}
+        - {x: 48, y: -22}
+      - - {x: -46, y: 0}
+        - {x: -46, y: 3}
+        - {x: -49, y: 4}
+        - {x: -49, y: -1}
+      - - {x: -40, y: 37}
+        - {x: -49, y: 37}
+        - {x: -49, y: 31}
+        - {x: -42, y: 25}
+        - {x: -37, y: 25}
+        - {x: -34, y: 27}
+        - {x: -34, y: 30}
+        - {x: -38, y: 36}
+      - - {x: 4, y: 47}
+        - {x: 4, y: 45}
+        - {x: 8, y: 41}
+        - {x: 9, y: 41}
+        - {x: 13, y: 45}
+        - {x: 13, y: 47}
+    - name: explosionSpritesheet_62
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 536
+        width: 99
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41.5, y: 47}
+        - {x: -49.5, y: 38}
+        - {x: -49.5, y: -17}
+        - {x: -45.5, y: -22}
+        - {x: -32.5, y: -20}
+        - {x: -28.5, y: -24}
+        - {x: -24.5, y: -25}
+        - {x: -28.5, y: -24}
+        - {x: -30.5, y: -24}
+        - {x: -32.5, y: -22}
+        - {x: -37.5, y: -21}
+        - {x: -49.5, y: -27}
+        - {x: -49.5, y: -42}
+        - {x: -41.5, y: -47}
+        - {x: 34.5, y: -47}
+        - {x: 49.5, y: -27}
+        - {x: 49.5, y: 47}
+      - - {x: 23.5, y: -46}
+        - {x: 23.5, y: -47}
+        - {x: 31.5, y: -47}
+        - {x: 31.5, y: -46}
+        - {x: 28.5, y: -43}
+        - {x: 26.5, y: -43}
+      - - {x: -49.5, y: -29}
+        - {x: -47.5, y: -32}
+        - {x: -45.5, y: -32}
+        - {x: -40.5, y: -30}
+        - {x: -40.5, y: -25}
+        - {x: -41.5, y: -23}
+        - {x: -46.5, y: -23}
+        - {x: -49.5, y: -26}
+      - - {x: 43.5, y: -25}
+        - {x: 43.5, y: -29}
+        - {x: 46.5, y: -31}
+        - {x: 49.5, y: -31}
+        - {x: 49.5, y: -22}
+        - {x: 46.5, y: -22}
+      - - {x: -48.5, y: 32}
+        - {x: -42.5, y: 26}
+        - {x: -35.5, y: 26}
+        - {x: -35.5, y: 33}
+        - {x: -36.5, y: 36}
+        - {x: -45.5, y: 38}
+        - {x: -48.5, y: 35}
+      - - {x: 4.5, y: 47}
+        - {x: 4.5, y: 46}
+        - {x: 8.5, y: 42}
+        - {x: 9.5, y: 42}
+        - {x: 13.5, y: 46}
+        - {x: 13.5, y: 47}
+    - name: explosionSpritesheet_63
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 587
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: explosionSpritesheet_64
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 582
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: explosionSpritesheet_65
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 582
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: explosionSpritesheet_66
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 582
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: explosionSpritesheet_67
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 572
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: explosionSpritesheet_68
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 571
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: explosionSpritesheet_69
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 571
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: explosionSpritesheet_70
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 571
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: explosionSpritesheet_71
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 571
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: explosionSpritesheet_72
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 554
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: explosionSpritesheet_73
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 554
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: explosionSpritesheet_74
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 530
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: explosionSpritesheet_75
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 532
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: explosionSpritesheet_76
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 530
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: explosionSpritesheet_77
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 532
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: explosionSpritesheet_78
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 532
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: explosionSpritesheet_79
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 532
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: explosionSpritesheet_80
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 293
+        width: 112
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: -105.5}
+        - {x: -45, y: -105.5}
+        - {x: -45, y: -102.5}
+        - {x: -47, y: -100.5}
+        - {x: -50, y: -101.5}
+      - - {x: -39, y: -104.5}
+        - {x: -38, y: -105.5}
+        - {x: -34, y: -105.5}
+        - {x: -34, y: -101.5}
+        - {x: -36, y: -99.5}
+        - {x: -39, y: -100.5}
+      - - {x: -33, y: -24.5}
+        - {x: -37, y: -30.5}
+        - {x: -39, y: -41.5}
+        - {x: -39, y: -102.5}
+        - {x: -30, y: -105.5}
+        - {x: 47, y: -105.5}
+        - {x: 47, y: -41.5}
+        - {x: 24, y: -24.5}
+      - - {x: 36, y: -105.5}
+        - {x: 41, y: -105.5}
+        - {x: 41, y: -102.5}
+        - {x: 39, y: -100.5}
+        - {x: 36, y: -101.5}
+      - - {x: 49, y: -105.5}
+        - {x: 54, y: -105.5}
+        - {x: 54, y: -102.5}
+        - {x: 52, y: -100.5}
+        - {x: 49, y: -101.5}
+      - - {x: -44, y: -87.5}
+        - {x: -48, y: -90.5}
+        - {x: -48, y: -94.5}
+        - {x: -46, y: -96.5}
+        - {x: -43, y: -95.5}
+        - {x: -39, y: -92.5}
+        - {x: -39, y: -88.5}
+        - {x: -41, y: -86.5}
+      - - {x: -48, y: -80.5}
+        - {x: -52, y: -84.5}
+        - {x: -52, y: -88.5}
+        - {x: -50, y: -90.5}
+        - {x: -47, y: -89.5}
+        - {x: -43, y: -85.5}
+        - {x: -43, y: -81.5}
+        - {x: -45, y: -79.5}
+      - - {x: 53, y: -86.5}
+        - {x: 55, y: -88.5}
+        - {x: 56, y: -88.5}
+        - {x: 56, y: -81.5}
+        - {x: 53, y: -82.5}
+      - - {x: 43, y: -63.5}
+        - {x: 43, y: -85.5}
+        - {x: 51, y: -85.5}
+        - {x: 54, y: -84.5}
+        - {x: 54, y: -63.5}
+      - - {x: -56, y: -77.5}
+        - {x: -53, y: -76.5}
+        - {x: -53, y: -72.5}
+        - {x: -55, y: -70.5}
+        - {x: -56, y: -70.5}
+      - - {x: 39, y: -75.5}
+        - {x: 41, y: -77.5}
+        - {x: 44, y: -76.5}
+        - {x: 44, y: -72.5}
+        - {x: 42, y: -70.5}
+        - {x: 39, y: -71.5}
+      - - {x: -41, y: -60.5}
+        - {x: -44, y: -60.5}
+        - {x: -47, y: -64.5}
+        - {x: -47, y: -68.5}
+        - {x: -45, y: -69.5}
+        - {x: -42, y: -69.5}
+        - {x: -39, y: -65.5}
+        - {x: -39, y: -61.5}
+      - - {x: -50, y: -53.5}
+        - {x: -52, y: -59.5}
+        - {x: -52, y: -63.5}
+        - {x: -50, y: -64.5}
+        - {x: -45, y: -64.5}
+        - {x: -43, y: -59.5}
+        - {x: -43, y: -54.5}
+        - {x: -46, y: -52.5}
+      - - {x: 39, y: -57.5}
+        - {x: 41, y: -59.5}
+        - {x: 44, y: -58.5}
+        - {x: 44, y: -54.5}
+        - {x: 42, y: -52.5}
+        - {x: 39, y: -53.5}
+      - - {x: 47, y: -54.5}
+        - {x: 49, y: -56.5}
+        - {x: 52, y: -55.5}
+        - {x: 52, y: -51.5}
+        - {x: 50, y: -49.5}
+        - {x: 47, y: -50.5}
+      - - {x: -35, y: -45.5}
+        - {x: -33, y: -47.5}
+        - {x: -30, y: -46.5}
+        - {x: -29, y: -38.5}
+        - {x: -31, y: -36.5}
+        - {x: -34, y: -37.5}
+      - - {x: -45, y: -44.5}
+        - {x: -43, y: -46.5}
+        - {x: -40, y: -45.5}
+        - {x: -40, y: -41.5}
+        - {x: -42, y: -39.5}
+        - {x: -45, y: -40.5}
+      - - {x: 30, y: -37.5}
+        - {x: 27, y: -38.5}
+        - {x: 27, y: -42.5}
+        - {x: 31, y: -46.5}
+        - {x: 35, y: -46.5}
+        - {x: 39, y: -42.5}
+        - {x: 39, y: -37.5}
+        - {x: 37, y: -35.5}
+        - {x: 34, y: -36.5}
+      - - {x: 42, y: -42.5}
+        - {x: 44, y: -44.5}
+        - {x: 47, y: -43.5}
+        - {x: 48, y: -35.5}
+        - {x: 46, y: -33.5}
+        - {x: 43, y: -34.5}
+      - - {x: -50, y: -41.5}
+        - {x: -48, y: -43.5}
+        - {x: -45, y: -42.5}
+        - {x: -45, y: -38.5}
+        - {x: -47, y: -36.5}
+        - {x: -50, y: -37.5}
+      - - {x: 32, y: -26.5}
+        - {x: 29, y: -29.5}
+        - {x: 29, y: -32.5}
+        - {x: 31, y: -34.5}
+        - {x: 32, y: -34.5}
+        - {x: 35, y: -31.5}
+        - {x: 35, y: -28.5}
+        - {x: 33, y: -26.5}
+      - - {x: -32, y: -22.5}
+        - {x: -34, y: -24.5}
+        - {x: -34, y: -27.5}
+        - {x: -32, y: -29.5}
+        - {x: -30, y: -29.5}
+        - {x: -28, y: -27.5}
+        - {x: -28, y: -24.5}
+        - {x: -30, y: -22.5}
+      - - {x: 8, y: -26.5}
+        - {x: 10, y: -28.5}
+        - {x: 13, y: -27.5}
+        - {x: 13, y: -23.5}
+        - {x: 11, y: -21.5}
+        - {x: 8, y: -22.5}
+      - - {x: -26, y: -20.5}
+        - {x: -24, y: -22.5}
+        - {x: -21, y: -21.5}
+        - {x: -21, y: -17.5}
+        - {x: -23, y: -15.5}
+        - {x: -26, y: -16.5}
+      - - {x: -8, y: -18.5}
+        - {x: -6, y: -20.5}
+        - {x: -3, y: -19.5}
+        - {x: -3, y: -15.5}
+        - {x: -5, y: -13.5}
+        - {x: -8, y: -14.5}
+      - - {x: 5, y: 4.5}
+        - {x: 3, y: 2.5}
+        - {x: 3, y: -0.5}
+        - {x: 5, y: -2.5}
+        - {x: 8, y: -2.5}
+        - {x: 10, y: -0.5}
+        - {x: 10, y: 2.5}
+        - {x: 8, y: 4.5}
+      - - {x: 28, y: 7.5}
+        - {x: 26, y: 5.5}
+        - {x: 26, y: 2.5}
+        - {x: 28, y: 0.5}
+        - {x: 31, y: 0.5}
+        - {x: 33, y: 2.5}
+        - {x: 33, y: 5.5}
+        - {x: 31, y: 7.5}
+      - - {x: 37, y: 43.5}
+        - {x: 37, y: 50.5}
+        - {x: 42, y: 52.5}
+        - {x: 45, y: 53.5}
+        - {x: 47, y: 55.5}
+        - {x: 41, y: 50.5}
+        - {x: 40, y: 45.5}
+        - {x: 48, y: 42.5}
+        - {x: 54, y: 45.5}
+        - {x: 54, y: 72.5}
+        - {x: 39, y: 94.5}
+        - {x: 34, y: 93.5}
+        - {x: 35, y: 95.5}
+        - {x: 38, y: 104.5}
+        - {x: -31, y: 104.5}
+        - {x: -39, y: 98.5}
+        - {x: -52, y: 75.5}
+        - {x: -52, y: 10.5}
+        - {x: -49, y: 5.5}
+        - {x: 25, y: 5.5}
+        - {x: 36, y: 15.5}
+        - {x: 47, y: 27.5}
+        - {x: 47, y: 35.5}
+      - - {x: -39, y: 23.5}
+        - {x: -35, y: 20.5}
+        - {x: -27, y: 20.5}
+        - {x: -27, y: 25.5}
+        - {x: -28, y: 28.5}
+        - {x: -32, y: 31.5}
+        - {x: -37, y: 31.5}
+        - {x: -39, y: 30.5}
+      - - {x: -48, y: 29.5}
+        - {x: -50, y: 27.5}
+        - {x: -50, y: 24.5}
+        - {x: -48, y: 22.5}
+        - {x: -45, y: 22.5}
+        - {x: -43, y: 24.5}
+        - {x: -43, y: 27.5}
+        - {x: -45, y: 29.5}
+      - - {x: 49, y: 30.5}
+        - {x: 47, y: 28.5}
+        - {x: 47, y: 25.5}
+        - {x: 49, y: 23.5}
+        - {x: 52, y: 23.5}
+        - {x: 54, y: 25.5}
+        - {x: 54, y: 28.5}
+        - {x: 52, y: 30.5}
+      - - {x: 50, y: 45.5}
+        - {x: 50, y: 44.5}
+        - {x: 53, y: 41.5}
+        - {x: 56, y: 41.5}
+        - {x: 56, y: 48.5}
+        - {x: 53, y: 48.5}
+      - - {x: -56, y: 59.5}
+        - {x: -56, y: 52.5}
+        - {x: -53, y: 52.5}
+        - {x: -51, y: 54.5}
+        - {x: -51, y: 57.5}
+        - {x: -53, y: 59.5}
+      - - {x: 39, y: 76.5}
+        - {x: 37, y: 74.5}
+        - {x: 37, y: 71.5}
+        - {x: 39, y: 69.5}
+        - {x: 42, y: 69.5}
+        - {x: 44, y: 71.5}
+        - {x: 44, y: 74.5}
+        - {x: 42, y: 76.5}
+      - - {x: 47, y: 80.5}
+        - {x: 45, y: 78.5}
+        - {x: 45, y: 75.5}
+        - {x: 47, y: 73.5}
+        - {x: 50, y: 73.5}
+        - {x: 52, y: 75.5}
+        - {x: 52, y: 78.5}
+        - {x: 50, y: 80.5}
+      - - {x: -49, y: 92.5}
+        - {x: -50, y: 91.5}
+        - {x: -50, y: 84.5}
+        - {x: -47, y: 82.5}
+        - {x: -40, y: 82.5}
+        - {x: -39, y: 83.5}
+        - {x: -39, y: 89.5}
+        - {x: -43, y: 92.5}
+      - - {x: 43, y: 96.5}
+        - {x: 42, y: 94.5}
+        - {x: 40, y: 89.5}
+        - {x: 40, y: 86.5}
+        - {x: 42, y: 84.5}
+        - {x: 45, y: 84.5}
+        - {x: 48, y: 85.5}
+        - {x: 49, y: 89.5}
+        - {x: 49, y: 96.5}
+      - - {x: -26, y: 98.5}
+        - {x: -26, y: 105.5}
+        - {x: -34, y: 105.5}
+        - {x: -34, y: 98.5}
+      - - {x: 7, y: 105.5}
+        - {x: 7, y: 102.5}
+        - {x: 9, y: 100.5}
+        - {x: 12, y: 100.5}
+        - {x: 14, y: 102.5}
+        - {x: 14, y: 105.5}
+    - name: explosionSpritesheet_81
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 499
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: explosionSpritesheet_82
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 496
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: explosionSpritesheet_83
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 293
+        width: 113
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50.5, y: -105.5}
+        - {x: -45.5, y: -105.5}
+        - {x: -45.5, y: -102.5}
+        - {x: -47.5, y: -100.5}
+        - {x: -50.5, y: -101.5}
+      - - {x: -39.5, y: -104.5}
+        - {x: -38.5, y: -105.5}
+        - {x: -34.5, y: -105.5}
+        - {x: -34.5, y: -101.5}
+        - {x: -36.5, y: -99.5}
+        - {x: -39.5, y: -100.5}
+      - - {x: 27.5, y: -35.5}
+        - {x: 5.5, y: -24.5}
+        - {x: -20.5, y: -24.5}
+        - {x: -39.5, y: -43.5}
+        - {x: -39.5, y: -104.5}
+        - {x: -28.5, y: -105.5}
+        - {x: 40.5, y: -105.5}
+        - {x: 46.5, y: -101.5}
+        - {x: 46.5, y: -90.5}
+        - {x: 38.5, y: -61.5}
+      - - {x: 35.5, y: -105.5}
+        - {x: 40.5, y: -105.5}
+        - {x: 40.5, y: -102.5}
+        - {x: 38.5, y: -100.5}
+        - {x: 35.5, y: -101.5}
+      - - {x: 48.5, y: -105.5}
+        - {x: 53.5, y: -105.5}
+        - {x: 53.5, y: -102.5}
+        - {x: 51.5, y: -100.5}
+        - {x: 48.5, y: -101.5}
+      - - {x: -44.5, y: -87.5}
+        - {x: -48.5, y: -90.5}
+        - {x: -48.5, y: -94.5}
+        - {x: -46.5, y: -96.5}
+        - {x: -43.5, y: -95.5}
+        - {x: -39.5, y: -92.5}
+        - {x: -39.5, y: -88.5}
+        - {x: -41.5, y: -86.5}
+      - - {x: -48.5, y: -80.5}
+        - {x: -52.5, y: -84.5}
+        - {x: -52.5, y: -88.5}
+        - {x: -50.5, y: -90.5}
+        - {x: -47.5, y: -89.5}
+        - {x: -43.5, y: -85.5}
+        - {x: -43.5, y: -81.5}
+        - {x: -45.5, y: -79.5}
+      - - {x: 53.5, y: -86.5}
+        - {x: 55.5, y: -88.5}
+        - {x: 56.5, y: -88.5}
+        - {x: 56.5, y: -81.5}
+        - {x: 53.5, y: -82.5}
+      - - {x: 47.5, y: -66.5}
+        - {x: 46.5, y: -67.5}
+        - {x: 43.5, y: -79.5}
+        - {x: 43.5, y: -83.5}
+        - {x: 44.5, y: -85.5}
+        - {x: 47.5, y: -85.5}
+        - {x: 52.5, y: -82.5}
+        - {x: 53.5, y: -80.5}
+        - {x: 53.5, y: -69.5}
+        - {x: 51.5, y: -66.5}
+      - - {x: -56.5, y: -77.5}
+        - {x: -53.5, y: -76.5}
+        - {x: -53.5, y: -72.5}
+        - {x: -55.5, y: -70.5}
+        - {x: -56.5, y: -70.5}
+      - - {x: 38.5, y: -75.5}
+        - {x: 40.5, y: -77.5}
+        - {x: 43.5, y: -76.5}
+        - {x: 43.5, y: -72.5}
+        - {x: 41.5, y: -70.5}
+        - {x: 38.5, y: -71.5}
+      - - {x: 42.5, y: -68.5}
+        - {x: 44.5, y: -70.5}
+        - {x: 47.5, y: -69.5}
+        - {x: 47.5, y: -65.5}
+        - {x: 45.5, y: -63.5}
+        - {x: 42.5, y: -64.5}
+      - - {x: -41.5, y: -60.5}
+        - {x: -44.5, y: -60.5}
+        - {x: -47.5, y: -64.5}
+        - {x: -47.5, y: -68.5}
+        - {x: -45.5, y: -69.5}
+        - {x: -42.5, y: -69.5}
+        - {x: -39.5, y: -65.5}
+        - {x: -39.5, y: -61.5}
+      - - {x: -50.5, y: -53.5}
+        - {x: -52.5, y: -59.5}
+        - {x: -52.5, y: -63.5}
+        - {x: -50.5, y: -64.5}
+        - {x: -45.5, y: -64.5}
+        - {x: -43.5, y: -59.5}
+        - {x: -43.5, y: -54.5}
+        - {x: -46.5, y: -52.5}
+      - - {x: 38.5, y: -57.5}
+        - {x: 40.5, y: -59.5}
+        - {x: 43.5, y: -58.5}
+        - {x: 43.5, y: -54.5}
+        - {x: 41.5, y: -52.5}
+        - {x: 38.5, y: -53.5}
+      - - {x: 46.5, y: -54.5}
+        - {x: 48.5, y: -56.5}
+        - {x: 51.5, y: -55.5}
+        - {x: 51.5, y: -51.5}
+        - {x: 49.5, y: -49.5}
+        - {x: 46.5, y: -50.5}
+      - - {x: -35.5, y: -45.5}
+        - {x: -33.5, y: -47.5}
+        - {x: -30.5, y: -46.5}
+        - {x: -29.5, y: -38.5}
+        - {x: -31.5, y: -36.5}
+        - {x: -34.5, y: -37.5}
+      - - {x: -45.5, y: -44.5}
+        - {x: -43.5, y: -46.5}
+        - {x: -40.5, y: -45.5}
+        - {x: -40.5, y: -41.5}
+        - {x: -42.5, y: -39.5}
+        - {x: -45.5, y: -40.5}
+      - - {x: 29.5, y: -37.5}
+        - {x: 26.5, y: -38.5}
+        - {x: 26.5, y: -42.5}
+        - {x: 30.5, y: -46.5}
+        - {x: 34.5, y: -46.5}
+        - {x: 38.5, y: -42.5}
+        - {x: 38.5, y: -37.5}
+        - {x: 36.5, y: -35.5}
+        - {x: 33.5, y: -36.5}
+      - - {x: 41.5, y: -42.5}
+        - {x: 43.5, y: -44.5}
+        - {x: 46.5, y: -43.5}
+        - {x: 47.5, y: -35.5}
+        - {x: 45.5, y: -33.5}
+        - {x: 42.5, y: -34.5}
+      - - {x: -50.5, y: -41.5}
+        - {x: -48.5, y: -43.5}
+        - {x: -45.5, y: -42.5}
+        - {x: -45.5, y: -38.5}
+        - {x: -47.5, y: -36.5}
+        - {x: -50.5, y: -37.5}
+      - - {x: 31.5, y: -26.5}
+        - {x: 28.5, y: -29.5}
+        - {x: 28.5, y: -32.5}
+        - {x: 30.5, y: -34.5}
+        - {x: 31.5, y: -34.5}
+        - {x: 34.5, y: -31.5}
+        - {x: 34.5, y: -28.5}
+        - {x: 32.5, y: -26.5}
+      - - {x: -32.5, y: -22.5}
+        - {x: -34.5, y: -24.5}
+        - {x: -34.5, y: -27.5}
+        - {x: -32.5, y: -29.5}
+        - {x: -30.5, y: -29.5}
+        - {x: -28.5, y: -27.5}
+        - {x: -28.5, y: -24.5}
+        - {x: -30.5, y: -22.5}
+      - - {x: 7.5, y: -26.5}
+        - {x: 9.5, y: -28.5}
+        - {x: 12.5, y: -27.5}
+        - {x: 12.5, y: -23.5}
+        - {x: 10.5, y: -21.5}
+        - {x: 7.5, y: -22.5}
+      - - {x: -26.5, y: -20.5}
+        - {x: -24.5, y: -22.5}
+        - {x: -21.5, y: -21.5}
+        - {x: -21.5, y: -17.5}
+        - {x: -23.5, y: -15.5}
+        - {x: -26.5, y: -16.5}
+      - - {x: -8.5, y: -18.5}
+        - {x: -6.5, y: -20.5}
+        - {x: -3.5, y: -19.5}
+        - {x: -3.5, y: -15.5}
+        - {x: -5.5, y: -13.5}
+        - {x: -8.5, y: -14.5}
+      - - {x: 4.5, y: 4.5}
+        - {x: 2.5, y: 2.5}
+        - {x: 2.5, y: -0.5}
+        - {x: 4.5, y: -2.5}
+        - {x: 7.5, y: -2.5}
+        - {x: 9.5, y: -0.5}
+        - {x: 9.5, y: 2.5}
+        - {x: 7.5, y: 4.5}
+      - - {x: 28.5, y: 7.5}
+        - {x: 26.5, y: 5.5}
+        - {x: 26.5, y: 1.5}
+        - {x: 28.5, y: -0.5}
+        - {x: 31.5, y: -0.5}
+        - {x: 33.5, y: 1.5}
+        - {x: 33.5, y: 4.5}
+        - {x: 32.5, y: 6.5}
+      - - {x: -31.5, y: 104.5}
+        - {x: -39.5, y: 98.5}
+        - {x: -37.5, y: 83.5}
+        - {x: -34.5, y: 82.5}
+        - {x: -31.5, y: 82.5}
+        - {x: -29.5, y: 84.5}
+        - {x: -32.5, y: 76.5}
+        - {x: -42.5, y: 83.5}
+        - {x: -53.5, y: 74.5}
+        - {x: -53.5, y: 5.5}
+        - {x: 46.5, y: 5.5}
+        - {x: 46.5, y: 102.5}
+        - {x: 42.5, y: 104.5}
+      - - {x: 35.5, y: 29.5}
+        - {x: 32.5, y: 28.5}
+        - {x: 30.5, y: 25.5}
+        - {x: 30.5, y: 16.5}
+        - {x: 35.5, y: 16.5}
+        - {x: 38.5, y: 17.5}
+        - {x: 40.5, y: 20.5}
+        - {x: 40.5, y: 29.5}
+      - - {x: -38.5, y: 30.5}
+        - {x: -39.5, y: 29.5}
+        - {x: -39.5, y: 23.5}
+        - {x: -34.5, y: 20.5}
+        - {x: -28.5, y: 20.5}
+        - {x: -27.5, y: 21.5}
+        - {x: -27.5, y: 28.5}
+        - {x: -30.5, y: 30.5}
+      - - {x: -49.5, y: 29.5}
+        - {x: -51.5, y: 27.5}
+        - {x: -51.5, y: 24.5}
+        - {x: -49.5, y: 22.5}
+        - {x: -46.5, y: 22.5}
+        - {x: -44.5, y: 24.5}
+        - {x: -44.5, y: 27.5}
+        - {x: -46.5, y: 29.5}
+      - - {x: 49.5, y: 30.5}
+        - {x: 47.5, y: 28.5}
+        - {x: 47.5, y: 25.5}
+        - {x: 49.5, y: 23.5}
+        - {x: 52.5, y: 23.5}
+        - {x: 54.5, y: 25.5}
+        - {x: 54.5, y: 28.5}
+        - {x: 52.5, y: 30.5}
+      - - {x: 51.5, y: 46.5}
+        - {x: 51.5, y: 43.5}
+        - {x: 53.5, y: 41.5}
+        - {x: 56.5, y: 41.5}
+        - {x: 56.5, y: 48.5}
+        - {x: 53.5, y: 48.5}
+      - - {x: 42.5, y: 66.5}
+        - {x: 41.5, y: 65.5}
+        - {x: 41.5, y: 44.5}
+        - {x: 46.5, y: 44.5}
+        - {x: 52.5, y: 47.5}
+        - {x: 53.5, y: 49.5}
+        - {x: 53.5, y: 61.5}
+        - {x: 50.5, y: 66.5}
+      - - {x: -56.5, y: 59.5}
+        - {x: -56.5, y: 52.5}
+        - {x: -53.5, y: 52.5}
+        - {x: -51.5, y: 54.5}
+        - {x: -51.5, y: 57.5}
+        - {x: -53.5, y: 59.5}
+      - - {x: 39.5, y: 76.5}
+        - {x: 37.5, y: 74.5}
+        - {x: 37.5, y: 71.5}
+        - {x: 39.5, y: 69.5}
+        - {x: 42.5, y: 69.5}
+        - {x: 44.5, y: 71.5}
+        - {x: 44.5, y: 74.5}
+        - {x: 42.5, y: 76.5}
+      - - {x: 47.5, y: 80.5}
+        - {x: 45.5, y: 78.5}
+        - {x: 45.5, y: 75.5}
+        - {x: 47.5, y: 73.5}
+        - {x: 50.5, y: 73.5}
+        - {x: 52.5, y: 75.5}
+        - {x: 52.5, y: 78.5}
+        - {x: 50.5, y: 80.5}
+      - - {x: -48.5, y: 92.5}
+        - {x: -50.5, y: 90.5}
+        - {x: -50.5, y: 86.5}
+        - {x: -47.5, y: 83.5}
+        - {x: -41.5, y: 83.5}
+        - {x: -39.5, y: 84.5}
+        - {x: -39.5, y: 89.5}
+        - {x: -43.5, y: 92.5}
+      - - {x: 42.5, y: 96.5}
+        - {x: 41.5, y: 94.5}
+        - {x: 39.5, y: 89.5}
+        - {x: 39.5, y: 86.5}
+        - {x: 41.5, y: 84.5}
+        - {x: 44.5, y: 84.5}
+        - {x: 47.5, y: 85.5}
+        - {x: 48.5, y: 89.5}
+        - {x: 48.5, y: 96.5}
+      - - {x: 27.5, y: 94.5}
+        - {x: 34.5, y: 94.5}
+        - {x: 34.5, y: 102.5}
+        - {x: 27.5, y: 102.5}
+        - {x: 25.5, y: 101.5}
+        - {x: 25.5, y: 97.5}
+      - - {x: -33.5, y: 105.5}
+        - {x: -34.5, y: 104.5}
+        - {x: -34.5, y: 101.5}
+        - {x: -31.5, y: 98.5}
+        - {x: -29.5, y: 98.5}
+        - {x: -27.5, y: 99.5}
+        - {x: -26.5, y: 103.5}
+        - {x: -28.5, y: 105.5}
+      - - {x: 6.5, y: 105.5}
+        - {x: 6.5, y: 102.5}
+        - {x: 8.5, y: 100.5}
+        - {x: 11.5, y: 100.5}
+        - {x: 13.5, y: 102.5}
+        - {x: 13.5, y: 105.5}
+    - name: explosionSpritesheet_84
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 499
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: explosionSpritesheet_85
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 497
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: explosionSpritesheet_86
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 293
+        width: 113
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -49.5, y: -109.5}
+        - {x: -45.5, y: -109.5}
+        - {x: -45.5, y: -106.5}
+        - {x: -48.5, y: -105.5}
+        - {x: -50.5, y: -107.5}
+      - - {x: -28.5, y: -36.5}
+        - {x: -31.5, y: -38.5}
+        - {x: -39.5, y: -60.5}
+        - {x: -39.5, y: -99.5}
+        - {x: -24.5, y: -109.5}
+        - {x: 36.5, y: -109.5}
+        - {x: 38.5, y: -104.5}
+        - {x: 38.5, y: -41.5}
+        - {x: 35.5, y: -36.5}
+      - - {x: 40.5, y: -109.5}
+        - {x: 40.5, y: -107.5}
+        - {x: 37.5, y: -106.5}
+        - {x: 35.5, y: -109.5}
+      - - {x: 49.5, y: -109.5}
+        - {x: 53.5, y: -109.5}
+        - {x: 53.5, y: -106.5}
+        - {x: 50.5, y: -105.5}
+        - {x: 48.5, y: -107.5}
+      - - {x: -37.5, y: -109.5}
+        - {x: -34.5, y: -108.5}
+        - {x: -34.5, y: -105.5}
+        - {x: -37.5, y: -104.5}
+        - {x: -39.5, y: -106.5}
+      - - {x: 36.5, y: -95.5}
+        - {x: 35.5, y: -98.5}
+        - {x: 38.5, y: -104.5}
+        - {x: 46.5, y: -104.5}
+        - {x: 46.5, y: -99.5}
+        - {x: 40.5, y: -95.5}
+      - - {x: -46.5, y: -99.5}
+        - {x: -43.5, y: -98.5}
+        - {x: -43.5, y: -95.5}
+        - {x: -46.5, y: -94.5}
+        - {x: -48.5, y: -96.5}
+      - - {x: -42.5, y: -96.5}
+        - {x: -39.5, y: -95.5}
+        - {x: -39.5, y: -92.5}
+        - {x: -42.5, y: -91.5}
+        - {x: -44.5, y: -93.5}
+      - - {x: -50.5, y: -93.5}
+        - {x: -47.5, y: -92.5}
+        - {x: -47.5, y: -89.5}
+        - {x: -50.5, y: -88.5}
+        - {x: -52.5, y: -90.5}
+      - - {x: 53.5, y: -89.5}
+        - {x: 55.5, y: -91.5}
+        - {x: 56.5, y: -91.5}
+        - {x: 56.5, y: -86.5}
+        - {x: 54.5, y: -86.5}
+      - - {x: -46.5, y: -89.5}
+        - {x: -43.5, y: -88.5}
+        - {x: -43.5, y: -85.5}
+        - {x: -46.5, y: -84.5}
+        - {x: -48.5, y: -86.5}
+      - - {x: 51.5, y: -77.5}
+        - {x: 48.5, y: -77.5}
+        - {x: 43.5, y: -83.5}
+        - {x: 43.5, y: -86.5}
+        - {x: 44.5, y: -88.5}
+        - {x: 49.5, y: -88.5}
+        - {x: 53.5, y: -83.5}
+        - {x: 53.5, y: -78.5}
+      - - {x: -53.5, y: -79.5}
+        - {x: -53.5, y: -76.5}
+        - {x: -56.5, y: -75.5}
+        - {x: -56.5, y: -80.5}
+      - - {x: 40.5, y: -80.5}
+        - {x: 43.5, y: -79.5}
+        - {x: 43.5, y: -76.5}
+        - {x: 40.5, y: -75.5}
+        - {x: 38.5, y: -77.5}
+      - - {x: 49.5, y: -76.5}
+        - {x: 52.5, y: -75.5}
+        - {x: 52.5, y: -72.5}
+        - {x: 49.5, y: -71.5}
+        - {x: 47.5, y: -73.5}
+      - - {x: -43.5, y: -65.5}
+        - {x: -48.5, y: -67.5}
+        - {x: -48.5, y: -71.5}
+        - {x: -46.5, y: -73.5}
+        - {x: -43.5, y: -72.5}
+        - {x: -39.5, y: -69.5}
+        - {x: -39.5, y: -66.5}
+        - {x: -42.5, y: -65.5}
+      - - {x: 44.5, y: -73.5}
+        - {x: 47.5, y: -72.5}
+        - {x: 47.5, y: -69.5}
+        - {x: 44.5, y: -68.5}
+        - {x: 42.5, y: -70.5}
+      - - {x: -50.5, y: -67.5}
+        - {x: -47.5, y: -66.5}
+        - {x: -47.5, y: -63.5}
+        - {x: -50.5, y: -62.5}
+        - {x: -52.5, y: -64.5}
+      - - {x: -49.5, y: -61.5}
+        - {x: -46.5, y: -64.5}
+        - {x: -43.5, y: -63.5}
+        - {x: -43.5, y: -60.5}
+        - {x: -46.5, y: -57.5}
+        - {x: -49.5, y: -58.5}
+      - - {x: 40.5, y: -62.5}
+        - {x: 43.5, y: -61.5}
+        - {x: 43.5, y: -58.5}
+        - {x: 40.5, y: -57.5}
+        - {x: 38.5, y: -59.5}
+      - - {x: 48.5, y: -59.5}
+        - {x: 51.5, y: -58.5}
+        - {x: 51.5, y: -55.5}
+        - {x: 48.5, y: -54.5}
+        - {x: 46.5, y: -56.5}
+      - - {x: -31.5, y: -50.5}
+        - {x: -29.5, y: -47.5}
+        - {x: -29.5, y: -41.5}
+        - {x: -33.5, y: -41.5}
+        - {x: -35.5, y: -44.5}
+        - {x: -35.5, y: -50.5}
+      - - {x: -43.5, y: -49.5}
+        - {x: -40.5, y: -48.5}
+        - {x: -40.5, y: -45.5}
+        - {x: -43.5, y: -44.5}
+        - {x: -45.5, y: -46.5}
+      - - {x: 27.5, y: -42.5}
+        - {x: 26.5, y: -44.5}
+        - {x: 26.5, y: -47.5}
+        - {x: 29.5, y: -49.5}
+        - {x: 33.5, y: -49.5}
+        - {x: 35.5, y: -48.5}
+        - {x: 35.5, y: -44.5}
+        - {x: 32.5, y: -42.5}
+      - - {x: 42.5, y: -40.5}
+        - {x: 41.5, y: -44.5}
+        - {x: 41.5, y: -46.5}
+        - {x: 43.5, y: -47.5}
+        - {x: 46.5, y: -45.5}
+        - {x: 47.5, y: -41.5}
+        - {x: 47.5, y: -39.5}
+        - {x: 45.5, y: -38.5}
+      - - {x: -48.5, y: -46.5}
+        - {x: -45.5, y: -45.5}
+        - {x: -45.5, y: -42.5}
+        - {x: -48.5, y: -41.5}
+        - {x: -50.5, y: -43.5}
+      - - {x: 35.5, y: -45.5}
+        - {x: 38.5, y: -44.5}
+        - {x: 38.5, y: -41.5}
+        - {x: 35.5, y: -40.5}
+        - {x: 33.5, y: -42.5}
+      - - {x: -11.5, y: -41.5}
+        - {x: -8.5, y: -40.5}
+        - {x: -8.5, y: -37.5}
+        - {x: -11.5, y: -36.5}
+        - {x: -13.5, y: -38.5}
+      - - {x: 31.5, y: -30.5}
+        - {x: 28.5, y: -33.5}
+        - {x: 28.5, y: -36.5}
+        - {x: 30.5, y: -38.5}
+        - {x: 31.5, y: -38.5}
+        - {x: 34.5, y: -35.5}
+        - {x: 34.5, y: -32.5}
+        - {x: 32.5, y: -30.5}
+      - - {x: -15.5, y: -33.5}
+        - {x: -12.5, y: -36.5}
+        - {x: -9.5, y: -35.5}
+        - {x: -9.5, y: -31.5}
+        - {x: -12.5, y: -28.5}
+        - {x: -15.5, y: -29.5}
+      - - {x: -32.5, y: -26.5}
+        - {x: -34.5, y: -28.5}
+        - {x: -34.5, y: -31.5}
+        - {x: -32.5, y: -33.5}
+        - {x: -30.5, y: -33.5}
+        - {x: -28.5, y: -31.5}
+        - {x: -28.5, y: -28.5}
+        - {x: -30.5, y: -26.5}
+      - - {x: 9.5, y: -31.5}
+        - {x: 12.5, y: -30.5}
+        - {x: 12.5, y: -27.5}
+        - {x: 9.5, y: -26.5}
+        - {x: 7.5, y: -28.5}
+      - - {x: -24.5, y: -25.5}
+        - {x: -21.5, y: -24.5}
+        - {x: -21.5, y: -21.5}
+        - {x: -24.5, y: -20.5}
+        - {x: -26.5, y: -22.5}
+      - - {x: -6.5, y: -23.5}
+        - {x: -3.5, y: -22.5}
+        - {x: -3.5, y: -19.5}
+        - {x: -6.5, y: -18.5}
+        - {x: -8.5, y: -20.5}
+      - - {x: 4.5, y: 0.5}
+        - {x: 2.5, y: -1.5}
+        - {x: 2.5, y: -4.5}
+        - {x: 4.5, y: -6.5}
+        - {x: 7.5, y: -6.5}
+        - {x: 9.5, y: -4.5}
+        - {x: 9.5, y: -1.5}
+        - {x: 7.5, y: 0.5}
+      - - {x: 28.5, y: 2.5}
+        - {x: 26.5, y: 0.5}
+        - {x: 26.5, y: -2.5}
+        - {x: 28.5, y: -4.5}
+        - {x: 31.5, y: -4.5}
+        - {x: 33.5, y: -2.5}
+        - {x: 33.5, y: 0.5}
+        - {x: 31.5, y: 2.5}
+      - - {x: -23.5, y: 100.5}
+        - {x: -34.5, y: 90.5}
+        - {x: -37.5, y: 79.5}
+        - {x: -34.5, y: 78.5}
+        - {x: -49.5, y: 73.5}
+        - {x: -53.5, y: 69.5}
+        - {x: -53.5, y: 14.5}
+        - {x: -49.5, y: 1.5}
+        - {x: 33.5, y: 1.5}
+        - {x: 47.5, y: 19.5}
+        - {x: 47.5, y: 99.5}
+        - {x: 44.5, y: 100.5}
+      - - {x: 35.5, y: 25.5}
+        - {x: 32.5, y: 24.5}
+        - {x: 30.5, y: 21.5}
+        - {x: 30.5, y: 12.5}
+        - {x: 35.5, y: 12.5}
+        - {x: 38.5, y: 13.5}
+        - {x: 40.5, y: 16.5}
+        - {x: 40.5, y: 25.5}
+      - - {x: -39.5, y: 26.5}
+        - {x: -40.5, y: 24.5}
+        - {x: -40.5, y: 19.5}
+        - {x: -34.5, y: 15.5}
+        - {x: -29.5, y: 15.5}
+        - {x: -28.5, y: 17.5}
+        - {x: -28.5, y: 24.5}
+        - {x: -31.5, y: 26.5}
+      - - {x: -49.5, y: 25.5}
+        - {x: -51.5, y: 23.5}
+        - {x: -51.5, y: 20.5}
+        - {x: -49.5, y: 18.5}
+        - {x: -46.5, y: 18.5}
+        - {x: -44.5, y: 20.5}
+        - {x: -44.5, y: 23.5}
+        - {x: -46.5, y: 25.5}
+      - - {x: 49.5, y: 25.5}
+        - {x: 47.5, y: 23.5}
+        - {x: 47.5, y: 20.5}
+        - {x: 49.5, y: 18.5}
+        - {x: 52.5, y: 18.5}
+        - {x: 54.5, y: 20.5}
+        - {x: 54.5, y: 23.5}
+        - {x: 52.5, y: 25.5}
+      - - {x: 51.5, y: 42.5}
+        - {x: 51.5, y: 39.5}
+        - {x: 53.5, y: 37.5}
+        - {x: 56.5, y: 37.5}
+        - {x: 56.5, y: 44.5}
+        - {x: 53.5, y: 44.5}
+      - - {x: 41.5, y: 62.5}
+        - {x: 41.5, y: 40.5}
+        - {x: 50.5, y: 40.5}
+        - {x: 53.5, y: 42.5}
+        - {x: 53.5, y: 60.5}
+        - {x: 49.5, y: 62.5}
+      - - {x: -56.5, y: 55.5}
+        - {x: -56.5, y: 48.5}
+        - {x: -53.5, y: 48.5}
+        - {x: -51.5, y: 50.5}
+        - {x: -51.5, y: 53.5}
+        - {x: -53.5, y: 55.5}
+      - - {x: 39.5, y: 72.5}
+        - {x: 37.5, y: 70.5}
+        - {x: 37.5, y: 67.5}
+        - {x: 39.5, y: 65.5}
+        - {x: 42.5, y: 65.5}
+        - {x: 44.5, y: 67.5}
+        - {x: 44.5, y: 70.5}
+        - {x: 42.5, y: 72.5}
+      - - {x: 47.5, y: 76.5}
+        - {x: 45.5, y: 74.5}
+        - {x: 45.5, y: 71.5}
+        - {x: 47.5, y: 69.5}
+        - {x: 50.5, y: 69.5}
+        - {x: 52.5, y: 71.5}
+        - {x: 52.5, y: 74.5}
+        - {x: 50.5, y: 76.5}
+      - - {x: -48.5, y: 88.5}
+        - {x: -50.5, y: 86.5}
+        - {x: -50.5, y: 82.5}
+        - {x: -47.5, y: 79.5}
+        - {x: -41.5, y: 79.5}
+        - {x: -39.5, y: 80.5}
+        - {x: -39.5, y: 85.5}
+        - {x: -43.5, y: 88.5}
+      - - {x: 41.5, y: 92.5}
+        - {x: 39.5, y: 89.5}
+        - {x: 39.5, y: 83.5}
+        - {x: 40.5, y: 80.5}
+        - {x: 44.5, y: 80.5}
+        - {x: 47.5, y: 82.5}
+        - {x: 48.5, y: 84.5}
+        - {x: 48.5, y: 91.5}
+        - {x: 46.5, y: 92.5}
+      - - {x: 28.5, y: 99.5}
+        - {x: 26.5, y: 98.5}
+        - {x: 26.5, y: 91.5}
+        - {x: 28.5, y: 90.5}
+        - {x: 33.5, y: 90.5}
+        - {x: 34.5, y: 92.5}
+        - {x: 34.5, y: 99.5}
+      - - {x: -32.5, y: 102.5}
+        - {x: -34.5, y: 100.5}
+        - {x: -34.5, y: 97.5}
+        - {x: -32.5, y: 95.5}
+        - {x: -29.5, y: 95.5}
+        - {x: -27.5, y: 97.5}
+        - {x: -27.5, y: 100.5}
+        - {x: -29.5, y: 102.5}
+      - - {x: 6.5, y: 104.5}
+        - {x: 6.5, y: 98.5}
+        - {x: 7.5, y: 96.5}
+        - {x: 10.5, y: 96.5}
+        - {x: 13.5, y: 97.5}
+        - {x: 13.5, y: 104.5}
+      - - {x: -25.5, y: 109.5}
+        - {x: -27.5, y: 107.5}
+        - {x: -27.5, y: 104.5}
+        - {x: -25.5, y: 102.5}
+        - {x: -22.5, y: 102.5}
+        - {x: -20.5, y: 104.5}
+        - {x: -20.5, y: 107.5}
+        - {x: -22.5, y: 109.5}
+      - - {x: -9.5, y: 109.5}
+        - {x: -9.5, y: 106.5}
+        - {x: -7.5, y: 104.5}
+        - {x: -4.5, y: 104.5}
+        - {x: -2.5, y: 106.5}
+        - {x: -2.5, y: 109.5}
+    - name: explosionSpritesheet_87
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 495
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: explosionSpritesheet_88
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 397
+        width: 114
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: -54.5}
+        - {x: 3, y: -57.5}
+        - {x: 10, y: -57.5}
+        - {x: 10, y: -54.5}
+        - {x: 8, y: -52.5}
+        - {x: 5, y: -52.5}
+      - - {x: 29, y: -49.5}
+        - {x: 27, y: -51.5}
+        - {x: 27, y: -56.5}
+        - {x: 34, y: -56.5}
+        - {x: 34, y: -50.5}
+        - {x: 32, y: -49.5}
+      - - {x: 21, y: 48.5}
+        - {x: -24, y: 48.5}
+        - {x: -38, y: 42.5}
+        - {x: -37, y: 27.5}
+        - {x: -34, y: 26.5}
+        - {x: -31, y: 26.5}
+        - {x: -49, y: 22.5}
+        - {x: -53, y: 16.5}
+        - {x: -53, y: 8.5}
+        - {x: -47, y: 3.5}
+        - {x: -53, y: -9.5}
+        - {x: -53, y: -51.5}
+        - {x: 45, y: -51.5}
+        - {x: 48, y: -42.5}
+        - {x: 48, y: 42.5}
+      - - {x: 36, y: -26.5}
+        - {x: 33, y: -27.5}
+        - {x: 31, y: -30.5}
+        - {x: 31, y: -37.5}
+        - {x: 32, y: -39.5}
+        - {x: 38, y: -39.5}
+        - {x: 41, y: -35.5}
+        - {x: 41, y: -27.5}
+        - {x: 40, y: -26.5}
+      - - {x: -39, y: -25.5}
+        - {x: -40, y: -26.5}
+        - {x: -40, y: -32.5}
+        - {x: -35, y: -36.5}
+        - {x: -29, y: -36.5}
+        - {x: -28, y: -35.5}
+        - {x: -28, y: -28.5}
+        - {x: -32, y: -25.5}
+      - - {x: -49, y: -26.5}
+        - {x: -51, y: -27.5}
+        - {x: -51, y: -31.5}
+        - {x: -50, y: -33.5}
+        - {x: -46, y: -33.5}
+        - {x: -44, y: -31.5}
+        - {x: -44, y: -28.5}
+        - {x: -46, y: -26.5}
+      - - {x: 50, y: -26.5}
+        - {x: 48, y: -28.5}
+        - {x: 48, y: -31.5}
+        - {x: 50, y: -33.5}
+        - {x: 53, y: -33.5}
+        - {x: 55, y: -31.5}
+        - {x: 55, y: -28.5}
+        - {x: 53, y: -26.5}
+      - - {x: 52, y: -9.5}
+        - {x: 52, y: -12.5}
+        - {x: 54, y: -14.5}
+        - {x: 57, y: -14.5}
+        - {x: 57, y: -7.5}
+        - {x: 54, y: -7.5}
+      - - {x: 42, y: 10.5}
+        - {x: 42, y: -11.5}
+        - {x: 54, y: -11.5}
+        - {x: 54, y: 7.5}
+        - {x: 52, y: 10.5}
+      - - {x: -57, y: 3.5}
+        - {x: -57, y: -3.5}
+        - {x: -54, y: -3.5}
+        - {x: -52, y: -2.5}
+        - {x: -52, y: 2.5}
+        - {x: -53, y: 3.5}
+      - - {x: 40, y: 20.5}
+        - {x: 38, y: 18.5}
+        - {x: 38, y: 15.5}
+        - {x: 40, y: 13.5}
+        - {x: 43, y: 13.5}
+        - {x: 45, y: 15.5}
+        - {x: 45, y: 18.5}
+        - {x: 43, y: 20.5}
+      - - {x: 48, y: 24.5}
+        - {x: 46, y: 22.5}
+        - {x: 46, y: 19.5}
+        - {x: 48, y: 17.5}
+        - {x: 51, y: 17.5}
+        - {x: 53, y: 19.5}
+        - {x: 53, y: 22.5}
+        - {x: 51, y: 24.5}
+      - - {x: -42, y: 36.5}
+        - {x: -48, y: 36.5}
+        - {x: -50, y: 35.5}
+        - {x: -50, y: 30.5}
+        - {x: -46, y: 27.5}
+        - {x: -41, y: 27.5}
+        - {x: -39, y: 29.5}
+        - {x: -39, y: 33.5}
+      - - {x: 43, y: 40.5}
+        - {x: 40, y: 36.5}
+        - {x: 40, y: 31.5}
+        - {x: 42, y: 29.5}
+        - {x: 46, y: 29.5}
+        - {x: 49, y: 32.5}
+        - {x: 49, y: 38.5}
+        - {x: 48, y: 40.5}
+      - - {x: 30, y: 47.5}
+        - {x: 27, y: 46.5}
+        - {x: 27, y: 40.5}
+        - {x: 28, y: 38.5}
+        - {x: 32, y: 38.5}
+        - {x: 35, y: 39.5}
+        - {x: 35, y: 45.5}
+        - {x: 34, y: 47.5}
+      - - {x: -32, y: 50.5}
+        - {x: -34, y: 48.5}
+        - {x: -34, y: 45.5}
+        - {x: -32, y: 43.5}
+        - {x: -29, y: 43.5}
+        - {x: -27, y: 45.5}
+        - {x: -27, y: 48.5}
+        - {x: -29, y: 50.5}
+      - - {x: 9, y: 52.5}
+        - {x: 7, y: 50.5}
+        - {x: 7, y: 47.5}
+        - {x: 9, y: 45.5}
+        - {x: 12, y: 45.5}
+        - {x: 14, y: 47.5}
+        - {x: 14, y: 50.5}
+        - {x: 12, y: 52.5}
+      - - {x: -26, y: 57.5}
+        - {x: -27, y: 56.5}
+        - {x: -27, y: 53.5}
+        - {x: -25, y: 51.5}
+        - {x: -22, y: 51.5}
+        - {x: -20, y: 53.5}
+        - {x: -20, y: 56.5}
+        - {x: -21, y: 57.5}
+      - - {x: -9, y: 57.5}
+        - {x: -9, y: 54.5}
+        - {x: -7, y: 52.5}
+        - {x: -4, y: 52.5}
+        - {x: -2, y: 54.5}
+        - {x: -2, y: 57.5}
+    - name: explosionSpritesheet_89
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 495
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: explosionSpritesheet_90
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 397
+        width: 114
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: -54.5}
+        - {x: 3, y: -57.5}
+        - {x: 10, y: -57.5}
+        - {x: 10, y: -54.5}
+        - {x: 8, y: -52.5}
+        - {x: 5, y: -52.5}
+      - - {x: 29, y: -49.5}
+        - {x: 27, y: -51.5}
+        - {x: 27, y: -56.5}
+        - {x: 34, y: -56.5}
+        - {x: 34, y: -50.5}
+        - {x: 32, y: -49.5}
+      - - {x: 9, y: -49.5}
+        - {x: 10, y: -51.5}
+        - {x: 24, y: -51.5}
+        - {x: 48, y: -31.5}
+        - {x: 48, y: 48.5}
+        - {x: -53, y: 48.5}
+        - {x: -53, y: -38.5}
+        - {x: -35, y: -51.5}
+        - {x: -18, y: -51.5}
+        - {x: 10, y: -41.5}
+        - {x: 13, y: -40.5}
+        - {x: 9, y: -46.5}
+      - - {x: 34, y: -33.5}
+        - {x: 31, y: -36.5}
+        - {x: 31, y: -37.5}
+        - {x: 34, y: -40.5}
+        - {x: 35, y: -40.5}
+        - {x: 38, y: -37.5}
+        - {x: 38, y: -36.5}
+        - {x: 35, y: -33.5}
+      - - {x: -39, y: -25.5}
+        - {x: -40, y: -26.5}
+        - {x: -40, y: -32.5}
+        - {x: -35, y: -36.5}
+        - {x: -29, y: -36.5}
+        - {x: -28, y: -35.5}
+        - {x: -28, y: -28.5}
+        - {x: -32, y: -25.5}
+      - - {x: -49, y: -26.5}
+        - {x: -51, y: -27.5}
+        - {x: -51, y: -31.5}
+        - {x: -50, y: -33.5}
+        - {x: -46, y: -33.5}
+        - {x: -44, y: -31.5}
+        - {x: -44, y: -28.5}
+        - {x: -46, y: -26.5}
+      - - {x: 36, y: -26.5}
+        - {x: 34, y: -28.5}
+        - {x: 34, y: -31.5}
+        - {x: 36, y: -33.5}
+        - {x: 39, y: -33.5}
+        - {x: 41, y: -31.5}
+        - {x: 41, y: -28.5}
+        - {x: 39, y: -26.5}
+      - - {x: 50, y: -26.5}
+        - {x: 48, y: -28.5}
+        - {x: 48, y: -31.5}
+        - {x: 50, y: -33.5}
+        - {x: 53, y: -33.5}
+        - {x: 55, y: -31.5}
+        - {x: 55, y: -28.5}
+        - {x: 53, y: -26.5}
+      - - {x: 52, y: -9.5}
+        - {x: 52, y: -12.5}
+        - {x: 54, y: -14.5}
+        - {x: 57, y: -14.5}
+        - {x: 57, y: -7.5}
+        - {x: 54, y: -7.5}
+      - - {x: 42, y: 10.5}
+        - {x: 42, y: -11.5}
+        - {x: 47, y: -11.5}
+        - {x: 54, y: -7.5}
+        - {x: 54, y: 6.5}
+        - {x: 49, y: 10.5}
+      - - {x: -57, y: 3.5}
+        - {x: -57, y: -3.5}
+        - {x: -54, y: -3.5}
+        - {x: -52, y: -2.5}
+        - {x: -52, y: 2.5}
+        - {x: -53, y: 3.5}
+      - - {x: 40, y: 20.5}
+        - {x: 38, y: 18.5}
+        - {x: 38, y: 15.5}
+        - {x: 40, y: 13.5}
+        - {x: 43, y: 13.5}
+        - {x: 45, y: 15.5}
+        - {x: 45, y: 18.5}
+        - {x: 43, y: 20.5}
+      - - {x: 48, y: 24.5}
+        - {x: 46, y: 22.5}
+        - {x: 46, y: 19.5}
+        - {x: 48, y: 17.5}
+        - {x: 51, y: 17.5}
+        - {x: 53, y: 19.5}
+        - {x: 53, y: 22.5}
+        - {x: 51, y: 24.5}
+      - - {x: -49, y: 36.5}
+        - {x: -51, y: 33.5}
+        - {x: -51, y: 30.5}
+        - {x: -46, y: 27.5}
+        - {x: -39, y: 27.5}
+        - {x: -39, y: 33.5}
+        - {x: -46, y: 36.5}
+      - - {x: 44, y: 40.5}
+        - {x: 42, y: 38.5}
+        - {x: 41, y: 31.5}
+        - {x: 43, y: 29.5}
+        - {x: 47, y: 29.5}
+        - {x: 49, y: 34.5}
+        - {x: 49, y: 39.5}
+        - {x: 47, y: 40.5}
+      - - {x: 31, y: 47.5}
+        - {x: 28, y: 44.5}
+        - {x: 28, y: 39.5}
+        - {x: 30, y: 38.5}
+        - {x: 34, y: 38.5}
+        - {x: 35, y: 40.5}
+        - {x: 36, y: 44.5}
+        - {x: 33, y: 47.5}
+      - - {x: -31, y: 51.5}
+        - {x: -34, y: 48.5}
+        - {x: -34, y: 45.5}
+        - {x: -32, y: 43.5}
+        - {x: -29, y: 43.5}
+        - {x: -27, y: 45.5}
+        - {x: -27, y: 48.5}
+        - {x: -30, y: 51.5}
+      - - {x: 9, y: 52.5}
+        - {x: 7, y: 50.5}
+        - {x: 7, y: 47.5}
+        - {x: 9, y: 45.5}
+        - {x: 12, y: 45.5}
+        - {x: 14, y: 47.5}
+        - {x: 14, y: 50.5}
+        - {x: 12, y: 52.5}
+      - - {x: -26, y: 57.5}
+        - {x: -27, y: 56.5}
+        - {x: -27, y: 53.5}
+        - {x: -25, y: 51.5}
+        - {x: -22, y: 51.5}
+        - {x: -20, y: 53.5}
+        - {x: -20, y: 56.5}
+        - {x: -21, y: 57.5}
+      - - {x: -9, y: 57.5}
+        - {x: -9, y: 54.5}
+        - {x: -7, y: 52.5}
+        - {x: -4, y: 52.5}
+        - {x: -2, y: 54.5}
+        - {x: -2, y: 57.5}
+    - name: explosionSpritesheet_91
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 495
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: explosionSpritesheet_92
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 397
+        width: 114
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: -49}
+        - {x: 3, y: -52}
+        - {x: 3, y: -54}
+        - {x: 10, y: -54}
+        - {x: 10, y: -50}
+        - {x: 7, y: -49}
+      - - {x: 30, y: -46}
+        - {x: 27, y: -49}
+        - {x: 27, y: -50}
+        - {x: 30, y: -53}
+        - {x: 31, y: -53}
+        - {x: 34, y: -50}
+        - {x: 34, y: -49}
+        - {x: 31, y: -46}
+      - - {x: 8, y: 53}
+        - {x: -23, y: 53}
+        - {x: -37, y: 39}
+        - {x: -37, y: 35}
+        - {x: -34, y: 29}
+        - {x: -28, y: 32}
+        - {x: -49, y: 13}
+        - {x: -49, y: -27}
+        - {x: -38, y: -48}
+        - {x: 22, y: -48}
+        - {x: 48, y: -24}
+        - {x: 48, y: -6}
+        - {x: 40, y: 49}
+      - - {x: 17, y: -29}
+        - {x: 9, y: -36}
+        - {x: 9, y: -48}
+        - {x: 22, y: -48}
+        - {x: 26, y: -39}
+        - {x: 26, y: -29}
+      - - {x: 34, y: -30}
+        - {x: 31, y: -33}
+        - {x: 31, y: -34}
+        - {x: 34, y: -37}
+        - {x: 35, y: -37}
+        - {x: 38, y: -34}
+        - {x: 38, y: -33}
+        - {x: 35, y: -30}
+      - - {x: -32, y: -26}
+        - {x: -35, y: -29}
+        - {x: -35, y: -30}
+        - {x: -32, y: -33}
+        - {x: -31, y: -33}
+        - {x: -28, y: -30}
+        - {x: -28, y: -29}
+        - {x: -31, y: -26}
+      - - {x: -48, y: -23}
+        - {x: -51, y: -26}
+        - {x: -51, y: -27}
+        - {x: -48, y: -30}
+        - {x: -47, y: -30}
+        - {x: -44, y: -27}
+        - {x: -44, y: -26}
+        - {x: -47, y: -23}
+      - - {x: 35, y: -26}
+        - {x: 35, y: -27}
+        - {x: 38, y: -30}
+        - {x: 41, y: -29}
+        - {x: 41, y: -25}
+        - {x: 39, y: -23}
+        - {x: 38, y: -23}
+      - - {x: 51, y: -23}
+        - {x: 48, y: -26}
+        - {x: 48, y: -27}
+        - {x: 51, y: -30}
+        - {x: 52, y: -30}
+        - {x: 55, y: -27}
+        - {x: 55, y: -26}
+        - {x: 52, y: -23}
+      - - {x: -37, y: -22}
+        - {x: -40, y: -25}
+        - {x: -40, y: -26}
+        - {x: -37, y: -29}
+        - {x: -36, y: -29}
+        - {x: -33, y: -26}
+        - {x: -33, y: -25}
+        - {x: -36, y: -22}
+      - - {x: -45, y: -2}
+        - {x: -46, y: -2}
+        - {x: -53, y: -9}
+        - {x: -53, y: -10}
+        - {x: -50, y: -13}
+        - {x: -48, y: -13}
+        - {x: -42, y: -7}
+        - {x: -42, y: -5}
+      - - {x: 55, y: -4}
+        - {x: 52, y: -7}
+        - {x: 52, y: -8}
+        - {x: 55, y: -11}
+        - {x: 57, y: -10}
+        - {x: 57, y: -5}
+        - {x: 56, y: -4}
+      - - {x: 42, y: -4}
+        - {x: 44, y: -8}
+        - {x: 48, y: -8}
+        - {x: 54, y: -4}
+        - {x: 54, y: 9}
+        - {x: 48, y: 14}
+        - {x: 45, y: 14}
+        - {x: 42, y: 13}
+      - - {x: -56, y: 7}
+        - {x: -57, y: 6}
+        - {x: -57, y: 1}
+        - {x: -56, y: 0}
+        - {x: -55, y: 0}
+        - {x: -52, y: 3}
+        - {x: -52, y: 4}
+        - {x: -55, y: 7}
+      - - {x: 38, y: 4}
+        - {x: 38, y: 3}
+        - {x: 41, y: 0}
+        - {x: 44, y: 1}
+        - {x: 44, y: 5}
+        - {x: 42, y: 7}
+        - {x: 41, y: 7}
+      - - {x: -53, y: 15}
+        - {x: -52, y: 13}
+        - {x: -48, y: 13}
+        - {x: -42, y: 16}
+        - {x: -42, y: 22}
+        - {x: -44, y: 25}
+        - {x: -47, y: 25}
+        - {x: -50, y: 23}
+        - {x: -53, y: 19}
+      - - {x: 41, y: 24}
+        - {x: 38, y: 21}
+        - {x: 38, y: 20}
+        - {x: 41, y: 17}
+        - {x: 42, y: 17}
+        - {x: 45, y: 20}
+        - {x: 45, y: 21}
+        - {x: 42, y: 24}
+      - - {x: 49, y: 28}
+        - {x: 46, y: 25}
+        - {x: 46, y: 24}
+        - {x: 49, y: 21}
+        - {x: 50, y: 21}
+        - {x: 53, y: 24}
+        - {x: 53, y: 25}
+        - {x: 50, y: 28}
+      - - {x: -49, y: 41}
+        - {x: -50, y: 40}
+        - {x: -50, y: 34}
+        - {x: -46, y: 31}
+        - {x: -42, y: 31}
+        - {x: -39, y: 33}
+        - {x: -39, y: 37}
+        - {x: -44, y: 41}
+      - - {x: 46, y: 44}
+        - {x: 45, y: 44}
+        - {x: 42, y: 41}
+        - {x: 41, y: 37}
+        - {x: 41, y: 35}
+        - {x: 44, y: 33}
+        - {x: 47, y: 33}
+        - {x: 49, y: 36}
+        - {x: 49, y: 41}
+      - - {x: 32, y: 51}
+        - {x: 28, y: 47}
+        - {x: 28, y: 45}
+        - {x: 31, y: 42}
+        - {x: 32, y: 42}
+        - {x: 35, y: 44}
+        - {x: 36, y: 48}
+        - {x: 33, y: 51}
+      - - {x: -33, y: 54}
+        - {x: -35, y: 52}
+        - {x: -35, y: 51}
+        - {x: -32, y: 48}
+        - {x: -29, y: 48}
+        - {x: -27, y: 50}
+        - {x: -27, y: 52}
+        - {x: -29, y: 54}
+      - - {x: 8, y: 54}
+        - {x: 7, y: 52}
+        - {x: 10, y: 49}
+        - {x: 11, y: 49}
+        - {x: 14, y: 52}
+        - {x: 13, y: 54}
+    - name: explosionSpritesheet_93
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 498
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: explosionSpritesheet_94
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 495
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: explosionSpritesheet_95
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 494
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: explosionSpritesheet_96
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 495
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: explosionSpritesheet_97
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 469
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: explosionSpritesheet_98
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 469
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: explosionSpritesheet_99
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 469
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: explosionSpritesheet_100
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 469
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: explosionSpritesheet_101
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 469
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: explosionSpritesheet_102
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 457
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: explosionSpritesheet_103
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 461
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: explosionSpritesheet_104
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 461
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: explosionSpritesheet_105
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 445
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: explosionSpritesheet_106
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 445
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: explosionSpritesheet_107
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 445
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: explosionSpritesheet_108
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 445
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: explosionSpritesheet_109
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 430
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: explosionSpritesheet_110
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 430
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: explosionSpritesheet_111
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 407
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: explosionSpritesheet_112
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 412
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: explosionSpritesheet_113
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 407
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: explosionSpritesheet_114
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 267
+        width: 74
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: -49}
+        - {x: 9, y: -49}
+        - {x: 9, y: -46}
+        - {x: 7, y: -44}
+        - {x: 4, y: -45}
+      - - {x: 28, y: -46}
+        - {x: 30, y: -48}
+        - {x: 33, y: -47}
+        - {x: 33, y: -43}
+        - {x: 31, y: -41}
+        - {x: 28, y: -42}
+      - - {x: -25, y: -28}
+        - {x: -28, y: -29}
+        - {x: -30, y: -37}
+        - {x: -30, y: -42}
+        - {x: -29, y: -43}
+        - {x: -25, y: -43}
+        - {x: -19, y: -41}
+        - {x: -19, y: -36}
+        - {x: -21, y: -32}
+        - {x: -24, y: -28}
+      - - {x: 10, y: -41}
+        - {x: 12, y: -43}
+        - {x: 15, y: -42}
+        - {x: 15, y: -38}
+        - {x: 13, y: -36}
+        - {x: 10, y: -37}
+      - - {x: 23, y: -24}
+        - {x: 16, y: -27}
+        - {x: 16, y: -41}
+        - {x: 18, y: -42}
+        - {x: 22, y: -41}
+        - {x: 25, y: -32}
+        - {x: 25, y: -26}
+      - - {x: -35, y: 49}
+        - {x: -37, y: 45}
+        - {x: -37, y: -17}
+        - {x: -32, y: -38}
+        - {x: 15, y: -38}
+        - {x: 34, y: -31}
+        - {x: 37, y: -26}
+        - {x: 37, y: 32}
+        - {x: 34, y: 49}
+      - - {x: 32, y: -30}
+        - {x: 34, y: -32}
+        - {x: 37, y: -31}
+        - {x: 37, y: -27}
+        - {x: 35, y: -25}
+        - {x: 32, y: -26}
+      - - {x: -34, y: -26}
+        - {x: -32, y: -28}
+        - {x: -29, y: -27}
+        - {x: -29, y: -23}
+        - {x: -31, y: -21}
+        - {x: -34, y: -22}
+      - - {x: -37, y: -24}
+        - {x: -34, y: -23}
+        - {x: -34, y: -19}
+        - {x: -36, y: -17}
+        - {x: -37, y: -17}
+      - - {x: -35, y: 37}
+        - {x: -33, y: 35}
+        - {x: -30, y: 36}
+        - {x: -29, y: 44}
+        - {x: -31, y: 46}
+        - {x: -34, y: 45}
+      - - {x: 27, y: 44}
+        - {x: 27, y: 40}
+        - {x: 31, y: 36}
+        - {x: 35, y: 36}
+        - {x: 37, y: 38}
+        - {x: 37, y: 47}
+        - {x: 34, y: 46}
+    - name: explosionSpritesheet_115
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 267
+        width: 74
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: -49}
+        - {x: 9, y: -49}
+        - {x: 9, y: -46}
+        - {x: 7, y: -44}
+        - {x: 4, y: -45}
+      - - {x: 28, y: -46}
+        - {x: 30, y: -48}
+        - {x: 33, y: -47}
+        - {x: 33, y: -43}
+        - {x: 31, y: -41}
+        - {x: 28, y: -42}
+      - - {x: -25, y: -28}
+        - {x: -28, y: -29}
+        - {x: -30, y: -37}
+        - {x: -30, y: -42}
+        - {x: -29, y: -43}
+        - {x: -25, y: -43}
+        - {x: -19, y: -41}
+        - {x: -19, y: -36}
+        - {x: -21, y: -32}
+        - {x: -24, y: -28}
+      - - {x: 10, y: -41}
+        - {x: 12, y: -43}
+        - {x: 15, y: -42}
+        - {x: 15, y: -38}
+        - {x: 13, y: -36}
+        - {x: 10, y: -37}
+      - - {x: 23, y: -24}
+        - {x: 16, y: -27}
+        - {x: 16, y: -41}
+        - {x: 18, y: -42}
+        - {x: 22, y: -41}
+        - {x: 25, y: -32}
+        - {x: 25, y: -26}
+      - - {x: -21, y: -27}
+        - {x: -21, y: -34}
+        - {x: -20, y: -38}
+        - {x: -16, y: -38}
+        - {x: -13, y: -37}
+        - {x: -13, y: -31}
+        - {x: -17, y: -27}
+      - - {x: -36, y: 49}
+        - {x: -37, y: 40}
+        - {x: -37, y: -21}
+        - {x: -24, y: -33}
+        - {x: 33, y: -33}
+        - {x: 37, y: -27}
+        - {x: 37, y: 34}
+        - {x: 34, y: 49}
+      - - {x: 32, y: -30}
+        - {x: 34, y: -32}
+        - {x: 37, y: -31}
+        - {x: 37, y: -27}
+        - {x: 35, y: -25}
+        - {x: 32, y: -26}
+      - - {x: -34, y: -26}
+        - {x: -32, y: -28}
+        - {x: -29, y: -27}
+        - {x: -29, y: -23}
+        - {x: -31, y: -21}
+        - {x: -34, y: -22}
+      - - {x: -37, y: -24}
+        - {x: -34, y: -23}
+        - {x: -34, y: -19}
+        - {x: -36, y: -17}
+        - {x: -37, y: -17}
+      - - {x: -35, y: 37}
+        - {x: -33, y: 35}
+        - {x: -30, y: 36}
+        - {x: -29, y: 44}
+        - {x: -31, y: 46}
+        - {x: -34, y: 45}
+      - - {x: 27, y: 44}
+        - {x: 27, y: 40}
+        - {x: 31, y: 36}
+        - {x: 35, y: 36}
+        - {x: 37, y: 38}
+        - {x: 37, y: 47}
+        - {x: 34, y: 46}
+    - name: explosionSpritesheet_116
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 268
+        width: 74
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: -48}
+        - {x: 9, y: -46}
+        - {x: 6, y: -45}
+        - {x: 4, y: -48}
+      - - {x: 30, y: -47}
+        - {x: 33, y: -46}
+        - {x: 33, y: -43}
+        - {x: 30, y: -42}
+        - {x: 28, y: -44}
+      - - {x: -22, y: -33}
+        - {x: -27, y: -33}
+        - {x: -29, y: -38}
+        - {x: -29, y: -43}
+        - {x: -27, y: -43}
+        - {x: -24, y: -42}
+        - {x: -21, y: -40}
+        - {x: -19, y: -38}
+        - {x: -19, y: -36}
+      - - {x: 12, y: -42}
+        - {x: 15, y: -41}
+        - {x: 15, y: -38}
+        - {x: 12, y: -37}
+        - {x: 10, y: -39}
+      - - {x: 18, y: -42}
+        - {x: 21, y: -41}
+        - {x: 21, y: -38}
+        - {x: 18, y: -37}
+        - {x: 16, y: -39}
+      - - {x: -16, y: -37}
+        - {x: -13, y: -36}
+        - {x: -13, y: -33}
+        - {x: -16, y: -32}
+        - {x: -18, y: -34}
+      - - {x: -29, y: -33}
+        - {x: -27, y: -35}
+        - {x: -24, y: -34}
+        - {x: -24, y: -30}
+        - {x: -26, y: -28}
+        - {x: -29, y: -29}
+      - - {x: 16, y: -32}
+        - {x: 19, y: -35}
+        - {x: 22, y: -34}
+        - {x: 22, y: -31}
+        - {x: 19, y: -28}
+        - {x: 16, y: -29}
+      - - {x: -19, y: -33}
+        - {x: -16, y: -32}
+        - {x: -16, y: -29}
+        - {x: -19, y: -28}
+        - {x: -21, y: -30}
+      - - {x: 30, y: 45}
+        - {x: 26, y: 48}
+        - {x: -37, y: 48}
+        - {x: -37, y: -23}
+        - {x: -21, y: -32}
+        - {x: 35, y: -32}
+        - {x: 37, y: -23}
+        - {x: 37, y: 36}
+      - - {x: 34, y: -31}
+        - {x: 37, y: -30}
+        - {x: 37, y: -27}
+        - {x: 34, y: -26}
+        - {x: 32, y: -28}
+      - - {x: 22, y: -30}
+        - {x: 25, y: -29}
+        - {x: 25, y: -26}
+        - {x: 22, y: -25}
+        - {x: 20, y: -27}
+      - - {x: -32, y: -27}
+        - {x: -29, y: -26}
+        - {x: -29, y: -23}
+        - {x: -32, y: -22}
+        - {x: -34, y: -24}
+      - - {x: -34, y: -22}
+        - {x: -34, y: -19}
+        - {x: -37, y: -18}
+        - {x: -37, y: -23}
+      - - {x: -31, y: 36}
+        - {x: -29, y: 39}
+        - {x: -29, y: 45}
+        - {x: -33, y: 45}
+        - {x: -35, y: 42}
+        - {x: -35, y: 36}
+      - - {x: 28, y: 44}
+        - {x: 27, y: 42}
+        - {x: 27, y: 39}
+        - {x: 30, y: 37}
+        - {x: 34, y: 37}
+        - {x: 36, y: 38}
+        - {x: 36, y: 42}
+        - {x: 33, y: 44}
+      - - {x: 34, y: 43}
+        - {x: 36, y: 41}
+        - {x: 37, y: 41}
+        - {x: 37, y: 46}
+        - {x: 35, y: 46}
+      - - {x: -8, y: 46}
+        - {x: -8, y: 48}
+        - {x: -13, y: 48}
+        - {x: -11, y: 45}
+    - name: explosionSpritesheet_117
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 283
+        width: 74
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: -45.5}
+        - {x: 22, y: -43.5}
+        - {x: 19, y: -42.5}
+        - {x: 17, y: -45.5}
+      - - {x: 12, y: 35.5}
+        - {x: -25, y: 35.5}
+        - {x: -37, y: 15.5}
+        - {x: -37, y: -25.5}
+        - {x: -10, y: -43.5}
+        - {x: 6, y: -43.5}
+        - {x: 37, y: -28.5}
+        - {x: 37, y: 14.5}
+        - {x: 20, y: 34.5}
+      - - {x: 21, y: 29.5}
+        - {x: 24, y: 30.5}
+        - {x: 24, y: 33.5}
+        - {x: 21, y: 34.5}
+        - {x: 19, y: 32.5}
+      - - {x: 31, y: 42.5}
+        - {x: 29, y: 40.5}
+        - {x: 29, y: 38.5}
+        - {x: 31, y: 36.5}
+        - {x: 33, y: 36.5}
+        - {x: 35, y: 38.5}
+        - {x: 35, y: 40.5}
+        - {x: 33, y: 42.5}
+      - - {x: -13, y: 44.5}
+        - {x: -15, y: 43.5}
+        - {x: -15, y: 40.5}
+        - {x: -14, y: 38.5}
+        - {x: -11, y: 38.5}
+        - {x: -9, y: 39.5}
+        - {x: -9, y: 42.5}
+        - {x: -10, y: 44.5}
+      - - {x: -34, y: 45.5}
+        - {x: -34, y: 42.5}
+        - {x: -32, y: 40.5}
+        - {x: -30, y: 40.5}
+        - {x: -28, y: 42.5}
+        - {x: -28, y: 45.5}
+    - name: explosionSpritesheet_118
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 287
+        width: 74
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 33.5}
+        - {x: -37, y: 7.5}
+        - {x: -37, y: -27.5}
+        - {x: -13, y: -43.5}
+        - {x: 29, y: -43.5}
+        - {x: 37, y: -28.5}
+        - {x: 37, y: 21.5}
+        - {x: 12, y: 33.5}
+      - - {x: 21, y: 27.5}
+        - {x: 24, y: 28.5}
+        - {x: 24, y: 31.5}
+        - {x: 21, y: 32.5}
+        - {x: 19, y: 30.5}
+      - - {x: 31, y: 40.5}
+        - {x: 29, y: 38.5}
+        - {x: 29, y: 36.5}
+        - {x: 31, y: 34.5}
+        - {x: 33, y: 34.5}
+        - {x: 35, y: 36.5}
+        - {x: 35, y: 38.5}
+        - {x: 33, y: 40.5}
+      - - {x: -13, y: 42.5}
+        - {x: -15, y: 41.5}
+        - {x: -15, y: 38.5}
+        - {x: -14, y: 36.5}
+        - {x: -11, y: 36.5}
+        - {x: -9, y: 37.5}
+        - {x: -9, y: 40.5}
+        - {x: -10, y: 42.5}
+      - - {x: -34, y: 43.5}
+        - {x: -34, y: 40.5}
+        - {x: -32, y: 38.5}
+        - {x: -30, y: 38.5}
+        - {x: -28, y: 40.5}
+        - {x: -28, y: 43.5}
+    - name: explosionSpritesheet_119
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 289
+        width: 72
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28, y: 25.5}
+        - {x: -1, y: 31.5}
+        - {x: -22, y: 31.5}
+        - {x: -36, y: 2.5}
+        - {x: -36, y: -32.5}
+        - {x: -17, y: -42.5}
+        - {x: 19, y: -42.5}
+        - {x: 26, y: -35.5}
+        - {x: 36, y: -17.5}
+        - {x: 36, y: 7.5}
+      - - {x: -33, y: 42.5}
+        - {x: -33, y: 39.5}
+        - {x: -31, y: 37.5}
+        - {x: -29, y: 37.5}
+        - {x: -27, y: 39.5}
+        - {x: -27, y: 42.5}
+    - name: explosionSpritesheet_120
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 162
+        width: 72
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 27.5}
+        - {x: -36, y: 14.5}
+        - {x: -36, y: -23.5}
+        - {x: -26, y: -40.5}
+        - {x: 15, y: -40.5}
+        - {x: 18, y: -39.5}
+        - {x: 36, y: -26.5}
+        - {x: 36, y: 18.5}
+        - {x: 24, y: 27.5}
+      - - {x: -18, y: 25.5}
+        - {x: -15, y: 26.5}
+        - {x: -15, y: 29.5}
+        - {x: -18, y: 30.5}
+        - {x: -20, y: 28.5}
+      - - {x: -33, y: 40.5}
+        - {x: -32, y: 37.5}
+        - {x: -29, y: 37.5}
+        - {x: -27, y: 39.5}
+        - {x: -27, y: 40.5}
+    - name: explosionSpritesheet_121
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 146
+        width: 72
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: -48.5}
+        - {x: -24, y: -45.5}
+        - {x: -28, y: -45.5}
+        - {x: -29, y: -48.5}
+      - - {x: 28, y: 33.5}
+        - {x: 6, y: 35.5}
+        - {x: -14, y: 35.5}
+        - {x: -36, y: 12.5}
+        - {x: -36, y: -20.5}
+        - {x: -20, y: -33.5}
+        - {x: 9, y: -33.5}
+        - {x: 19, y: -31.5}
+        - {x: 36, y: -9.5}
+        - {x: 36, y: 16.5}
+      - - {x: -23, y: 30.5}
+        - {x: -21, y: 28.5}
+        - {x: -18, y: 29.5}
+        - {x: -15, y: 36.5}
+        - {x: -16, y: 38.5}
+        - {x: -18, y: 38.5}
+        - {x: -23, y: 34.5}
+      - - {x: -33, y: 48.5}
+        - {x: -32, y: 45.5}
+        - {x: -29, y: 45.5}
+        - {x: -27, y: 47.5}
+        - {x: -27, y: 48.5}
+    - name: explosionSpritesheet_122
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 165
+        width: 63
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: 30.5}
+        - {x: -31.5, y: 21.5}
+        - {x: -31.5, y: -30.5}
+        - {x: 21.5, y: -30.5}
+        - {x: 31.5, y: -9.5}
+        - {x: 31.5, y: 26.5}
+        - {x: 20.5, y: 30.5}
+    - name: explosionSpritesheet_123
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 168
+        width: 59
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 28.5}
+        - {x: -29.5, y: 18.5}
+        - {x: -29.5, y: -20.5}
+        - {x: -27.5, y: -28.5}
+        - {x: 15.5, y: -28.5}
+        - {x: 29.5, y: -7.5}
+        - {x: 29.5, y: 20.5}
+        - {x: 18.5, y: 28.5}
+    - name: explosionSpritesheet_124
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 170
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: 25.5}
+        - {x: -24.5, y: 22.5}
+        - {x: -25.5, y: 19.5}
+        - {x: -25.5, y: -19.5}
+        - {x: -13.5, y: -25.5}
+        - {x: 15.5, y: -25.5}
+        - {x: 25.5, y: -10.5}
+        - {x: 25.5, y: 18.5}
+        - {x: 15.5, y: 25.5}
+    - name: explosionSpritesheet_125
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 175
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: 21}
+        - {x: -16.5, y: 17}
+        - {x: -22.5, y: 8}
+        - {x: -22.5, y: -9}
+        - {x: -13.5, y: -21}
+        - {x: 8.5, y: -21}
+        - {x: 18.5, y: -18}
+        - {x: 22.5, y: -4}
+        - {x: 22.5, y: 12}
+        - {x: 10.5, y: 21}
+    - name: explosionSpritesheet_126
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 47
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: 19}
+        - {x: -18.5, y: 9}
+        - {x: -18.5, y: -14}
+        - {x: -16.5, y: -19}
+        - {x: 18.5, y: -19}
+        - {x: 18.5, y: 15}
+        - {x: 8.5, y: 19}
+    - name: explosionSpritesheet_127
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 51
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: explosionSpritesheet_128
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 53
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
